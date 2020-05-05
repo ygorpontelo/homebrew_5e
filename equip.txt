@@ -1,0 +1,276 @@
+<style>
+  .phb{
+    width : 210mm;
+    height : 296.8mm;
+  }
+</style>
+
+
+<style>
+  .phb#p1{ text-align:center; }
+  .phb#p1:after{ display:none; }
+</style>
+
+<div style='margin-top:450px;'></div>
+
+# Equipamento: Armas e Escudos
+
+<div style='margin-top:25px'></div>
+<div class='wide'>
+##### Usar esse documento ao invés do livro
+</div>
+
+\page
+
+
+<div class='wide'>
+##### Escudos
+| Nome | Bônus na CA | HP | Propriedades | Requerimento |
+|:----:|:----:|:----:|:----:|:----:|
+| Buckler  | +1 | 5 | — | — |
+| Escudo de Madeira  | +2 | 10 | — | — |
+| Escudo de Aço | +2 | 20 | — | — |
+| Escudo de Torre | +2/+4 | 25 | Cover | Força 13 ou maior |
+</div>
+
+<br>
+
+#### Absorver Dano 
+
+Quando estiver usando qualquer escudo, no momento que é atingido por um ataque, você pode usar sua reação para o escudo. Se o escudo chegar a 0 pontos de vida, ela é considerado quebrado e não fornece nenhum dos benefícios da tabela, qualquer dano excedente é transferido a você. 
+
+Você pode consertar o escudo com ferramentas de ferreiro, ou levando ele à um, ou mesmo conjurando o truque *Consertar* nele. O escudo volta ao pontos de vida máximo quando é consertado.
+
+<br>
+
+### Propriedades
+<br>
+
+#### Cover
+
+Pode usar ação bônus para colocar o escudo na frente recebendo +2 no AC e cobertura total de ataques ranged. O quadrado da sua frente vira virtualmente essa cobertura total até o começo do próximo turno. 
+
+<br>
+
+#### Requerimento
+
+Se você não satisfazer o requerimento para usar o escudo, você sofre a mesma penalidade da armadura pesada. A penaliade do escudo e da armadura acumulam entre si.
+
+\page
+
+<div class='wide'>
+##### Armas simples corpo-a-corpo
+| Nome | Preço | Dano | Peso | Propriedades | 
+|:----:|:----:|:----:|:----:|:----:| 
+| Adaga 		| 2po |	1d4 P |	0,5 kg 	| ágil, leve, arremesso 6/18, opção S |
+| Azagaia 		| 5pp | 1d6 P | 1 kg 	| arremesso 9/36 |
+| Bordão 		| 2pp | 1d6 B | 2 kg 	| versátil d8 |
+| Clava 		| 2pp |	1d6 B |	1,5 kg 	| arremesso 6/18 |
+| Foice Curta 	| 1po | 1d4 S | 1 kg 	| leve, derrubar |
+| Foice Longa 	| 2po | 1d6 S | 1,5 kg 	| alcance, derrubar |
+| Lança 		| 1po | 1d6 P | 1,5 kg 	| arremesso 6/18, versátil d8 |
+| Maça 			| 5po | 1d6 B | 2 kg 	| empurrar |
+| Machadinha 	| 5po | 1d6 S | 1 kg 	| leve, arremesso 6/18, varrer |
+| Martelo Leve 	| 2po | 1d6 B | 1 kg 	| leve, arremesso 6/18 |
+| Picareta 		| 1po | 1d6 P | 1 kg 	| leve, fatal d8 |
+| Porrete 		| 1po | 1d4 B | 1 kg 	| leve, não-letal |
+| Manopla 		| 2pp | 1d4 B | 0,3 kg 	| leve, mão-livre, não-letal|
+</div>
+
+<div class='wide'>
+##### Armas simples à distância
+| Nome | Preço | Dano | Peso | Propriedades | 
+|:----:|:----:|:----:|:----:|:----:| 
+| Arco curto 	| 25po 	| 1d6 P | 1 kg 		| munição 24/96, duas-mãos, propulsiva |
+| Besta Leve 	| 25po 	| 1d8 P | 2,5 kg	| munição 24/96, recarregar, duas-mãos, mortal |
+| Dardo 		| 5pc 	| 1d4 P | 0,1 kg	| ágil, arremesso 6/18 |
+| Funda 		| 1pp 	| 1d4 B | — 		| munição 9/36, propulsiva |
+
+</div>
+
+<div class='wide'>
+##### Armas marciais corpo-a-corpo
+| Nome | Preço | Dano | Peso | Propriedades | 
+|:----:|:----:|:----:|:----:|:----:| 
+|Alabarda 			| 20po 	| 1d10 S 	| 3 kg	 | pesada, alcance, duas-mãos, opção P, derrubar|
+|Bordão Longo 		| 1po 	| 1d8 B		| 2 kg	 | desviar, derrubar, alcance|
+|Cimitarra 			| 25po	| 1d6 S		| 1,5 kg | leve, ágil, varrer, combo|
+|Chicote 			| 2po	| 1d4 S		| 1,5 kg | desarmar, ágil, não-letal, alcance, derrubar, agarrar|
+|Clava Grande 		| 10po	| 1d10 B	| 2,5 kg | pesada, momentum, empurrar|
+|Escudo 			| -		| 1d4 B		| -		 | não-letal|
+|Escudo espinho 	| 5po	| 1d6 P		| -	 	 | Acoplado, opção S|
+|Espada Bastarda 	| 10po	| 1d8 S		| 2,5 kg | pesada, versátil d12|
+|Espada Curta 		| 10po	| 1d6 S		| 1 kg	 | leve, ágil, opção P|
+|Espada Grande 		| 50po	| 2d6 S		| 3 kg	 | pesada, duas-mãos, opção P, varrer|
+|Espada Longa 		| 15po	| 1d8 S		| 1,5 kg | versátil d10, opção P|
+|Falchion 			| 15 po	| 1d10 S	| 1,5 kg | combo, varrer|
+|Glaive 			| 20po	| 1d8 S		| 3 kg	 | pesada, duas-mãos, mortal, combo, alcance|
+|Katana 			| 15 po	| 1d6 S		| 1,5 kg | versátil d8, mortal, opção P|
+|Lança de Montaria 	| 10po	| 1d10 P	| 3 kg	 | pesada, alcance, duas-mãos, montado d12, mortal|
+|Lança Longa 		| 5po	| 1d10 P	| 4 kg	 | pesada, alcance, duas-mãos, montado d8, mortal|
+|Main-gauche 		| 10po	| 1d4 P		| 0,5 kg | leve, desarmar, ágil, desviar, opção S|
+|Maça Estrela 		| 15po	| 1d8 B		| 2 kg	 | versátil d10, empurrar, opção P|
+|Machado Grande 	| 30po	| 1d12 S	| 3,5 kg | pesada, duas-mãos, varrer, momentum|
+|Machado de Batalha | 10po	| 1d8 S		| 2 kg	 | versátil d10, momentum|
+|Malho 				| 10po	| 2d6 B		| 5 kg	 | pesada, duas-mãos, empurrar, momentum|
+|Mangual 			| 10po	| 1d8 B		| 1 kg	 | desarmar, momentum, derrubar|
+|Martelo de Guerra 	| 15po	| 1d8 B		| 1 kg	 | versátil d10, empurrar|
+|Poleaxe 			| 20po	| 1d10 S	| 3 kg	 | pesada, duas-mãos, alcance, opção P B|
+  
+</div>
+
+\page
+  
+
+<div class='wide'>
+  
+| Nome | Preço | Dano | Peso | Propriedades | 
+|:----:|:----:|:----:|:----:|:----:| 
+|Picareta de Guerra | 5po 	| 1d8 P	| 1 kg 	| fatal d10|
+|Pomo 				| -		| 1d4 B	| -		| não-letal|
+|Pomo espinho 		| 5po	| 1d6 P	| -		| Acoplado, opção S|
+|Ranseur 			| 15po	| 1d10 P| 2 kg	| duas-mãos, desarmar, alcance|
+|Rapieira 			| 25po	| 1d8 P	| 1 kg	| mortal, desarmar, ágil|
+|Tridente 			| 5po	| 1d8 P	| 2 kg	| arremesso 6/18, versátil d10, mortal|
+
+</div>
+
+<div class='wide'>
+  
+##### Armas marciais à distância
+| Nome | Preço | Dano | Peso | Propriedades |
+|:----:|:----:|:----:|:----:|:----:| 
+|Arco Longo			| 50po	| 1d8 P	 | 1 kg	  | pesada, duas-mãos, munição 45/180, mortal, propulsiva|
+|Bordão com Funda	| 25po	| 1d8 B	 | 2 kg	  | munição 9/36, propulsiva|
+|Besta de Mão		| 75po	| 1d6 P  | 1,5 kg | leve, recarregar, munição 9/36|
+|Besta Pesada		| 50po	| 1d10 P | 4,5 kg | pesada, duas-mãos, munição 30/120, recarregar, fatal d12|
+|Rede				| 1po	| - 	 | 1,5 kg | arremesso 1,5/4,5|
+|Zarabatana			| 10po	| 1 P	 | 0,5 kg | munição 7,5/30, recarregar|
+
+</div>
+
+<br>
+
+### Propriedades
+<br>
+
+#### Acoplado
+
+Essa arma é sempre acoplada com outra.
+
+#### Agarrar
+
+Você pode agarrar o inimigo com a arma usando sua ação bônus, faça um teste de Atletismo (Força) contra Atletismo (Força) ou Acrobacia (Destreza) do inimigo, se conseguir você agarra o alvo com a arma.
+
+#### Agil
+
+Quando realizar um ataque, você pode escolher usar seu modificador de Força ou de Destreza para realizar a jogada de ataque e de dano. Você precisa usar o mesmo modificador para ambas as jogadas, ataque e dano. 
+
+Também pode escolher usar o teste de Acrobacia (Destreza) para as propriedades que pedem um teste de Atletismo (Força). 
+
+#### Alcance
+
+Essa arma adiciona 1,5 metro ao seu alcance para atacar. Essa propriedade também determina seu alcance ao realizar ataques de oportunidade. 
+
+#### Arremesso
+
+Você pode arremessar a arma para realizar um ataque à distância sem que este seja improvisado. Se essa arma for uma arma de ataque corpo-a-corpo, você usa o mesmo modificador de habilidade para as jogadas de ataque e dano que usaria para realizar um ataque corpo-a-corpo com a arma. Por exemplo, se você arremessar uma machadinha, ele usa seu modificador de Força, mas se arremessar uma adaga, você pode usar tanto seu modificador de Força quanto o de Destreza, pois a adaga possui a propriedade acuidade.
+
+#### Combo
+
+A arma se torna mais perigosa a medida que você faz mais ataques, a cada ataque depois do primeiro você adiciona metade da sua proficiencia como bônus no dano da arma.
+
+```
+```
+<br>
+
+#### Derrubar
+
+Você pode tentar derrubar o inimigo com a arma usando sua ação bônus, faça um teste de Atletismo (Força) contra Atletismo (Força) ou Acrobacia (Destreza) do inimigo, se conseguir você derruba o alvo. Seu tamanho deve ser no máximo uma categoria maior que a sua.
+
+#### Desarmar
+
+Essa arma permite você desarmar o inimigo usando sua ação bônus, faça um teste de Atletismo (Força) contra Atletismo (Força) ou Acrobacia (Destreza) do inimigo, se conseguir você o desarma, a arma dele cai à um metro e meio dele.
+
+#### Desviar
+
+A arma garante uma proteção a mais para desviar ataques, você pode usar sua reação para ganhar +1 na CA.
+
+#### Duas Mãos
+
+Essa arma requer as duas mãos para ser usada. Essa propriedade só é relevante quando você ataca com a arma, não enquanto apenas a segura.
+
+#### Empurrar
+
+Você pode empurrar o inimigo com a arma usando sua ação bônus, faça um teste de Atletismo (Força) contra Atletismo (Força) ou Acrobacia (Destreza) do inimigo, se conseguir você empurra o alvo até 1,5 metro.
+
+#### Fatal
+
+Quando você faz um acerto crítico com a arma, mude o dado da arma para o dado especificado e depois aplique a propriedade Mortal na arma.
+
+#### Leve
+
+Uma arma leve é pequena e de fácil manuseio, tornando-a ideal para usar quando você está combatendo com duas armas.
+
+#### Mão Livre
+
+Essa arma não precisa ocupar a sua mão, ela pode ser acoplada na sua armadura ou em uma parte do corpo, como a manopla.
+
+\page
+
+#### Momentum
+
+Você pode usar o momentum de um ataque que você errou para ajudar em outro ataque, quando o fizer adicione metatde da sua proficiẽncia como bônus para acertar.
+
+#### Montado
+
+Essa arma pode ser usada com uma mão quando estiver em uma montaria, o seu dado de dano se torna o dado especificado.
+
+#### Mortal
+
+Quando você faz um acerto crítico com a arma, adicione um dado da arma extra no dano causado. Esse dano não é duplicado pelo crítico.
+
+#### Munição
+
+Você pode usar uma arma que tenha a propriedade munição para realizar um ataque à distância, apenas se possuir munição para disparar a arma. Cada vez que você atacar com a arma, você gasta uma peça de munição. Sacar a munição de uma aljava, bolsa, ou outro recipiente faz parte do ataque. No fim da batalha, você pode recuperar metade de sua munição gasta, se tiver um minuto para procurar pelo campo de batalha. Recarregar uma arma requer uma mão livre.
+
+#### Não Letal
+
+Você não sofre desvantagem no ataque se causar dano não letal com a arma
+
+#### Opção
+
+Essa arma pode ser usada para aplicar outros tipos de dano devido a sua construção. Os possíveis tipos são especificados junto com a propriedade
+
+#### Pesada
+
+Criaturas pequenas ou menores têm desvantagem nas jogadas de ataque com estas armas. O tamanho e o peso de uma arma pesada tornam-na muito grande para ser empunhada eficientemente por essas criaturas.
+
+#### Propulsiva
+
+Adicione metade do seu modificador de força, arrendodado para cima, como bônus no dano da arma feita com ataque à distância.
+
+#### Recarregar
+
+Devido o tempo necessário para recarregar essa arma, você pode disparar apenas uma peça de munição da arma quando usa uma ação, ação bônus, ou reação para disparar, não importando quantos ataques você possua.
+
+#### Varrer
+
+A arma consegue fazer ataques amplos, sendo mais fácil de acertar múltiplos alvos. A cada ataque que você faz em alvos diferentes, você adiciona metade da sua proficiência como bônus para acertar os alvos. Isso não vale para o primeiro ataque, e se um dos ataques for em um alvo já você já atacou você não ganha esse bônus.
+
+#### Versátil
+
+Essa arma pode ser usada com uma ou duas mãos. O dado de dano da arma usada com as duas mãos para efetuar ataques corpo-a-corpo muda para o dado especificado.
+
+```
+```
+
+### Rede
+
+Uma criatura Grande ou menor atingida por uma rede fica impedida até se libertar. Uma rede não afeta criaturas que não possuam uma forma definida, ou criaturas Enormes ou maiores. A criatura pode usar sua ação para realizar um teste de Força CD 10 para se libertar, ou outra criatura dentro do alcance que obtiver sucesso no teste pode fazer isso por ela. Causar 5 de dano cortante à rede (CA 10) também liberta a criatura sem feri-la, encerrando o efeito e destruindo a rede. Quando você usa uma ação, ação bônus, ou reação para atacar com a rede, você pode realizar apenas um ataque, independentemente do número de ataques que você possa realizar normalmente.
+
+### Lança de Montaria
+
+Você tem desvantagem quando usar a lança longa para atacar um alvo a até 1,5 metro de você. Além disso, uma lança longa requer as duas mãos para ser empunhada quando você não está em uma montaria.
+
+

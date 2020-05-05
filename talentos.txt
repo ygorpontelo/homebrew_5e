@@ -1,0 +1,784 @@
+<style>
+  .phb{
+    width : 210mm;
+    height : 296.8mm;
+  }
+</style>
+
+<style>
+  .phb#p1{ text-align:center; }
+  .phb#p1:after{ display:none; }
+</style>
+
+<div style='margin-top:450px;'></div>
+
+# Talentos
+
+<div style='margin-top:25px'></div>
+<div class='wide'>
+##### Usar esse documento ao invés do livro
+</div>
+
+\page
+
+# Regras Para Talentos
+
+<br><br>
+
+<div class='wide'>
+
+  - ##### Ao invés de ganhar o incremento no valor de habilidade, você pode escolher ganhar três talentos.
+  <br>
+  
+  - ##### Alternativamente, você pode escolher ganhar +1 em alguma alguma habilidade e ganhar um talento.
+  <br>
+  
+  - ##### Quando estiver criando o personagem, você pode escolher trocar bônus em habilidade por talento. Você pode ganhar três talentos se o bônus perdido foi de +2 ou um talento se o bônus perdido foi de +1. O bônus perdido de +2 pode ser a combinação de dois bônus +1 em habilidades diferentes. O máximo de talentos que você pode ganhar dessa forma é três.
+  <br>
+  
+  - ##### Os efeitos de cada talento não acumulam consigo mesmos, mas alguns deles podem ser escolhidos mais de uma vez. Cada escolha é considerada um talento diferente.   
+  <br>
+  
+  - ##### Toda vez que subir de nível, você pode escolher trocar um talento por outro, perdendo o efeito do talento anterior. 
+  <br>
+  
+  - ##### Alguns talentos possuem pré requisitos que você precisa atender para poder escolhê-los, se não possuir algum dos pré requisitos você não pode pegar o talento. 
+  <br>
+  
+  - ##### Se por acaso você perder algum pré requisito para um talento por qualquer motivo, um efeito debilitante por exemplo, o talento não pode ser usado até que os pré requisitos sejam restaurados.
+  <br>
+  
+  - ##### Os talentos estão organizados por categoria, mas você pode escolher qualquer um de qualquer categoria.
+  
+</div>
+
+\page
+
+
+## Proficiências
+<br>
+
+
+### Proficiência em Armaduras Leves
+
+Você ganha proficiência em armaduras leves
+
+### Proficiência em Armaduras Médias
+
+*Pré requisito: Proficiência em Armaduras Leves*
+
+Você ganha proficiência em armaduras médias.
+
+### Proficiência em Armaduras Pesadas
+
+*Pré requisito: Proficiência em Armaduras Médias*
+
+ Você ganha proficiência em armaduras pesadas.
+
+### Proficiência com Escudos
+
+Você ganha proficiência com escudos.
+
+### Proficiência com Armas
+
+Você ganha proficiência com três armas específicas, à sua escolha.
+
+Você pode escolher esse talento diversas vezes. A cada vez que o fizer, você deve escolher um conjunto de armas diferente.
+
+### Treinamento em Perícia
+
+Você ganha proficiência em uma perícia que não era proficiente. 
+
+Você pode escolher esse talento diversas vezes. A cada vez que o fizer, você deve escolher uma perícia diferente.
+
+### Treinamento em Ferramentas
+
+Você adquire proficiência em três ferramentas que não era proficiente.
+
+Você pode escolher esse talento diversas vezes. A cada vez que o fizer, você deve escolher um conjunto de ferramentas diferente.
+
+### Especialista
+
+Você ganha expertise em uma perícia ou ferramenta que já seja proficiente, à sua escolha.
+
+Você pode escolher esse talento diversas vezes. A cada vez que o fizer, você deve escolher uma perícia ou ferramenta diferente.
+
+### Linguista
+
+Você aprende quatro idiomas, à sua escolha.
+
+Você pode escolher esse talento diversas vezes. A cada vez que o fizer, você deve escolher um conjunto de idiomas diferente.
+
+```
+```
+
+## Maestrias em Armaduras
+<br>
+
+### Mestria em Armaduras Leves
+
+*Pré requisito: Proficiência em armaduras leves*
+
+Enquanto estiver usando uma armadura leve, ataques de oportunidade provocados por movimentação, de inimigos que consiga ver, são feitos com desvantagem contra você.
+
+### Mestria em Armaduras Leves II
+
+*Pré requisito: Talento Mestria em Armaduras Leves*
+
+Enquanto estiver usando uma armadura leve, você não provoca ataques de oportunidade por movimentação de inimigos que consiga ver.
+
+
+### Maestria em Armaduras Médias
+
+*Pré requisito: Proficiência em armaduras médias*
+
+Se estiver usando uma armadura média, pode adicionar até +3 como bônus de destreza ao invés de até +2.
+
+### Maestria em Armaduras Médias II
+
+*Pré requisito: Talento Maestria em Armaduras Médias*
+
+Se estiver usando uma armadura média, pode adicionar até +4 como bônus de destreza ao invés de até +3.
+
+### Mestria em Armaduras Pesadas
+
+*Pré requisito: Proficiência em armaduras pesadas*
+
+Enquanto estiver usando armadura pesada, danos físicos (Perfurante, Cortante e Concussão) não mágicos são reduzidos pelo seu bônus de proficiência. 
+
+### Mestria em Armaduras Pesadas II
+
+*Pré requisito: Talento Mestria em Armaduras Pesadas*
+
+Enquanto estiver usando armadura pesada, quaisquer danos físicos (Perfurante, Cortante e Concussão) são reduzidos pelo seu bônus de proficiência. 
+
+### Furtividade em Armaduras
+
+Usar armaduras médias ou pesadas que tenha proficiência não impoẽm desvantagem nos testes de Destreza (Furtividade).
+
+\page
+
+## Magia em Batalha
+<br>
+
+### Adepto Elemental
+
+*Pré requisito: Poder conjurar pelo menos uma magia*
+
+Escolha um tipo de dano entre: ácido, fogo, frio, elétrico, trovejante ou venenoso. Magias que você conjura ignoram resistência ao dano que escolheu.
+
+Você pode escolher esse talento diversas vezes. A cada vez que o fizer, você deve escolher um tipo de dano diferente.
+
+### Mestre Elemental
+
+*Pré requisito: Adepto Elemental com o mesmo tipo de dano escolhido*
+
+Escolha um tipo de dano entre: ácido, fogo, frio, elétrico, trovejante ou venenoso. Magias que você conjura tratam imunidade ao dano que escolheu como resistência.
+
+Você pode escolher esse talento diversas vezes. A cada vez que o fizer, você deve escolher um tipo de dano diferente.
+
+
+### Magias Potentes
+
+*Pré requisito: Poder conjurar pelo menos uma magia*
+
+Quando rolar um 1 em alguma rolagem de dano da magia, re-role e use o novo resultado.
+
+### Sniper Mágico
+
+*Pré requisito: Poder conjurar pelo menos uma magia*
+
+Quando uma magia fizer um ataque à distância, a distância da magia é dobrada e ela ignora meia e três quartos de cobertura.
+
+### Tiro Mágico Letal
+
+*Pré requisito: Poder conjurar pelo menos uma magia*
+
+Quando for fazer um ataque à distância com magia, você pode escolher não ter o bônus de proficiência, se acertar adicione o dobro da sua proficiência no dano da magia.
+
+### Foco Inabalável
+
+*Pré requisito: Poder conjurar pelo menos uma magia*
+
+Você tem vantagem nos testes de resistência de constituição para manter a concentração em magias quando sofrer dano. 
+
+
+### Conjurador de Batalha
+
+*Pré requisito: Poder conjurar pelo menos uma magia*
+
+Você pode realizar os componentes somáticos da magia independente de ter armas ou escudos em uma ou ambas as mãos.
+
+```
+```
+
+### Oportunidade Mágica
+
+*Pré requisito: Poder conjurar pelo menos uma magia*
+
+Quando o movimento de uma criatura provocar um ataque de oportunidade de você, pode usar sua reação para conjurar uma magia. A magia tem que ter o tempo de conjuração de 1 ação e ter como alvo somente aquela criatura.
+
+## Agilidade em Combate
+<br>
+
+### Ligeiro
+
+*Pré requisito: Destreza 13 ou maior*
+
+Seu movimento aumenta em 3m. Quando você está caído, levantar custa apenas 1,5m de deslocamento. Escalar não custa movimento extra e você pode fazer um pulo correndo longo ou alto depois de se deslocar apenas 1,5m ao invés de 3m.
+
+### Reflexos Rápidos
+
+Ganha bônus de +5 em iniciativa.
+
+### Alerta
+
+Não pode ser surpreendido enquanto está consciente.
+
+### Sexto Sentido
+
+Outras criaturas não ganham vantagem nas jogadas de ataque contra você por estarem escondidas de você.
+
+### Pés Leves
+
+*Pré requisito: Destreza 13 ou maior*
+
+Terreno difícil não custa movimentação extra para você.
+
+### Mobilidade em Combate
+
+*Pré requisito: Destreza 13 ou maior*
+
+Pode usar a ação Desengajar como ação bônus.
+
+## Combate com Duas Armas
+<br>
+
+### Ambidestro
+
+Você consegue usar duas armas corpo-a-corpo mesmo que elas não sejam leves.
+
+### Técnica Dual
+
+Você ganha +1 no CA enquanto esteja empunhando duas armas corpo-a-corpo em cada mão.
+
+### Técnica Dual Aprimorada
+
+*Pré requisito: Talento Técnica Dual*
+
+Você ganha +2 ao invés de +1 no CA enquanto esteja empunhando duas armas corpo-a-corpo em cada mão.
+
+\page
+
+### Troca Rápida Para Duas Armas
+
+Como parte da ação interagir com objeto para guardar ou sacar uma arma, você consegue fazer com duas armas ao invés de uma. Além disso, você pode guardar um outro objeto que você esteja segurando como parte da mesma ação.
+
+### Ataque Bônus Para Duas Armas
+
+Você pode usar sua ação bônus para atacar mesmo que não tenha usado a ação Atacar naquele turno.
+
+### Ataques Múltiplos Para Duas Armas
+
+Você pode fazer um ataque adicional quando usar sua ação bônus para atacar se tiver feito pelo menos um ataque extra com sua outra arma no mesmo turno.
+
+### Estilo Dual
+
+Você ganha o estilo de combate “Combate com Duas Armas”.
+
+## Intelecto
+<br>
+
+### Linguista
+
+*Pré requisito: Saber um idioma além de Comum*
+
+Você aprende trẽs idiomas da sua escolha. Seu entendimento em comunicação permite que você se comunique com uma criatura que fala um idioma que você não conhece em um nível rudimentar, ou seja, não consegue elaborar frases nem transmitir ideias complexas, depois de passar 10 minutos interagindo com ela. Você consegue traduzir uma linguagem escrita em um nível rudimentar, depois de 10 minutos de estudo.
+
+### Codificador
+
+*Pré requisito: Inteligência 13 ou maior*
+
+Você consegue criar cifras. Outros não conseguem decifrar os seus códigos exceto se você os ensinar, ou se eles conseguirem passar em um teste de inteligência (CD 8 + seu modificador de Inteligência + seu bônus de proficência), ou usarem magia para decifrar. Se você possuir um livro de magia, você consegue escrever nele usando suas cifras, prevenindo que qualquer um possa copiá-lo. 
+
+### Memória Perfeita
+
+*Pré requisito: Inteligência 13 ou maior*
+
+Você sempre se lembra de quantas horas restam antes do próximo nascer e pôr do sol, sempre sabe qual direção é o norte, tendo vantagem em todos os testes de inteligência para evitar se perder, além de poder se lembrar com detalhes de qualquer coisa que viu ou ouviu no último mês, tendo vantagem em testes de inteligẽncia para recordar alguma informação além desse período. 
+
+### Memória Fotográfica
+
+*Pré requisito: Talento Memória Perfeita*
+
+Sua memória se torna tão boa que pode se recordar até os mínimos detalhes de tudo que viu ou ouviu no último mês a ponto de poder duplicar uma chave ou até mesmo um livro de magia que tenha lido.
+
+### Leitura Labial
+
+Se conseguir ver a boca de uma criatura enquanto ela fala alguma linguagem que consegue entender, você consegue interpretar o que ela está dizendo lendo os seus lábios. Além disso, você pode imitar a fala de outra pessoa ou imitar o som feito por outra criatura. Você precisa ter ouvido a pessoa ou os sons feitos pela criatura por pelo menos 1 minuto. Um teste bem sucedido de Sabedoria (Intuição) contra o seu teste de Carisma (Enganação) permite o ouvinte determinar se o efeito é falso.
+
+### Análise Criteriosa
+
+Se você passar pelo menos 1 minuto observando ou interagindo com outra criatura fora de combate, você pode verificar o intelecto da criatura em relação ao seu. O Mestre fala se os valores de inteligência e sabedoria da criatura são iguais, maiores ou menores que os seus.
+
+### Inteligência Dominante
+
+*Pré requisito: Inteligência 13 ou maior*
+
+Quando você fizer um teste de sabedoria, você pode substituir pelo seu valor de inteligência se este for maior.
+
+### Intuição Dominante
+
+*Pré requisito: Sabedoria 13 ou maior*
+
+Quando você fizer um teste de inteligência, você pode substituir pelo seu valor de sabedoria se este for maior.
+
+
+### Intelecto Arcano
+
+*Pré requisito: Proficiência em Arcanismo*
+
+Você entende a natureza da magia, permitindo você identificar magias quando conjuradas por um conjurador. Quando você perceber uma magia sendo conjurada, um efeito mágico, ou ambos, você pode fazer um teste de inteligência (Arcanismo) para identificar a magia. O CD é igual a 15 + nível da magia.
+
+## Treinamento Mágico
+<br>
+
+### Adepto Mágico
+
+Escolha uma magia de primeiro nível de qualquer lista de magias. Você aprende essa magia e consegue conjurá-la no seu menor nível. Uma vez que faça isso, você precisa terminar um descanso longo antes de poder conjurá-la de novo dessa forma. Você usa a mesma habilidade da classe da lista que você a escolheu para conjurar a magia.
+
+Você pode escolher esse talento diversas vezes. A cada vez que o fizer, você deve escolher uma magia diferente.
+
+\page
+
+### Aprendiz de Mágico
+
+Escolha dois Cantrips de uma mesma lista de magias. Você aprende esses Cantrips e consegue conjurá-los usando a mesma habilidade da classe da lista que você os escolheu. 
+
+Você pode escolher esse talento diversas vezes. A cada vez que o fizer, você deve escolher um conjunto de truques diferente.
+
+### Conjurador Rirualístico
+
+Você aprende duas magias de primeiro nível e consegue conjurá-las somente como rituais. Escolha uma das seguintes classes: bardo, bruxo, clérigo, druida, feiticeiro ou mago. Você deve escolher as magias das listas da classe que escolheu e as magias precisam ter a tag ritual. A classe que escolheu também determina a habilidade que você usará para conjurar essas magias. 
+
+Você pode escolher esse talento diversas vezes. A cada vez que o fizer, você deve escolher magias diferentes, da mesma classe ou não.
+
+### Conjurador Ritualístico II
+
+*Pré requisito: Talento Conjurador Ritualístico com a mesma classe escolhida*
+
+Você aprende duas magias de segundo nível e consegue conjurá-las somente como rituais. Escolha uma das seguintes classes: bardo, bruxo, clérigo, druida, feiticeiro ou mago. Você deve escolher as magias das listas da classe que escolheu e as magias precisam ter a tag ritual. A classe que escolheu também determina a habilidade que você usará para conjurar essas magias. 
+
+Você pode escolher esse talento diversas vezes. A cada vez que o fizer, você deve escolher magias diferentes, da mesma classe ou não.
+
+### Livro de Rituais
+
+Você aprende a conjurar rituais como a classe do mago e os guarda em um livro de rituais. Quando escolher essa característica adicione um ritual de primeiro nível do mago ao seu livro de rituais. Quando encontrar uma magia escrita da lista do mago, como em livro de magias ou em um pergaminho, e essa magia ter a tag ritual, você consegue copiá-la para seu livro de rituais. O processo demora 2 horas e custa 50 po por nível da magia. A magia também não pode ter um nível maior que metade do seu nível, arredondado para cima. Você usa inteligência para conjurar a magia.
+
+### Caçador Antimagia
+
+Quando uma criatura a 1,5m de você conjurar uma magia, você pode usar sua reação para fazer um ataque corpo-a-corpo contra a criatura.
+
+### Anulador
+
+*Pré requisito: Talento Caçador Antimagia*
+
+Se o ataque conferido pelo talento Caçador Antimagia acertar, a criatura deve ser bem sucedida em um teste de resistẽncia de constituição (CD 8 + modificador da habilidade do seu ataque + seu bônus de Proficiência) ou perderá a magia. A criatura automaticamente perde a magia se o ataque for um acerto crítico. 
+
+### Interrupção Mágica
+
+Quando você causa dano em uma criatura que esteja concentrando em uma magia, ela tem desvantagem no teste de resistência de constituição para manter a concentração nessa magia.
+
+### Foco de Magia Universal
+
+Se você possui um foco de magia de alguma classe que você tenha algum nível, esse foco é aplicável a qualquer magia de qualquer outra classe.
+
+### Magia Moldável
+
+Você aprende uma Metamágica da lista do feiticeiro e ganha um ponto de Metamágica. Você gasta esse ponto para usar a Metamágica. Você recupera todos os pontos gastos quando termina um descanso longo. Esses pontos não são pontos de feitiçaria e você deve contá-los separadamente, porém eles podem ser gastos para usar qualquer Metamágica que você conhece por outros meios.
+
+### Magia Moldável II
+
+*Pré requisito: Talento Magia Moldável*
+
+Você aprende uma outra Metamágica da lista do feiticeiro e ganha um ponto adicional de Metamágica.
+
+Você pode escolher esse talento diversas vezes, mas apenas uma vez por incremento de habilidade. A cada vez que o fizer, você deve escolher uma Metamágica diferente.
+
+## Combate Montado
+<br>
+
+### Ataque de Cavalaria
+
+Você tem vantagem em ataques corpo-a-corpo contra qualquer criatura que não esteja montada e que seja igual ou menor que sua montaria.
+
+### Montaria Defensiva
+
+Você pode forçar um ataque direcionado à sua montaria atacar você no lugar.
+
+###  Montaria Defensiva Aprimorada
+
+*Pré requisito: Talento Montaria Defensiva*
+
+O ataque redirecionado à você é feito com desvatagem.
+
+### Montaria Resistente
+
+Se sua montaria tiver que fazer um teste de resistência de destreza contra efeitos para receber metade do dano, ela não recebe nenhum dano se conseguir passar no teste e apenas metade se falhar. Ela pode usar o mesmo valor do seu teste, se este for maior.
+
+\page
+
+### Investida de Lança
+
+e você se mover pelo menos 3m com sua montaria em direção a uma criatura e usa a ação Atacar para atacá-la com uma lança, você pode escolher não receber o bônus de proficiência, se o ataque acertar adicione o dobro da proficiência no dano. Se você acertou o primeiro ataque e possui a característica Ataque Extra, você pode deixar de fazer o segundo ataque e o primeiro ataque é considerado um acerto crítico, se o inimigo não é maior que sua montaria ele é derrubado no chão.
+
+### Maestria em Combate Montado
+
+Se sua montaria é controlada, ela não está restrita às ações típicas que você pode mandá-la fazer (normalmente a montaria é restrita apenas às ações Esquivar, Desengajar e Disparada).
+
+### Maestria em Combate Montado II
+
+*Pré requisito: Maestria em Combate Montado*
+
+Você pode controlar uma montaria mesmo que esta não seja treinada especificamente para o combate.
+
+## Combate à Distância
+<br>
+
+### Recarregar Rápido
+
+Você ignora a propriedade recarregar das armas a distância que você seja proficiente.
+
+### Tiro a Queima Roupa
+
+Estar à 1,5 metro de uma criatura não impõem desvantagem nas suas jogadas de ataque a distância.
+
+### Atirador Rápido
+
+Quando você usar a ação Atacar para fazer um ataque corpo-a-corpo usando apenas uma mão, você pode usar uma ação bônus para atacar com uma arma, que seja de uma mão, de ataque a distância ou que tenha a propriedade Arremessar que você esteja segurando ou possa sacar como parte da própria ação bônus.
+
+### Sniper
+
+Atacar ao alcance maior do normal não impõe desvantagem nos seus ataques a distância e você ignora meia e três quartos de cobertura.
+
+### Sniper II
+
+*Pré requisito: Talento Sniper*
+
+Você pode atacar até duas vezes o alcance máximo da arma, mas atacar ao alcance maior do que o máximo impõe desvantagem nos ataques.
+
+### Tiro Letal
+
+Quando for fazer um ataque à distância com uma arma que você seja proficiente e esteja segurando em duas mãos, você pode escolher não receber o bônus de proficiência, se o ataque acertar adicione o dobro da proficiência no dano.
+
+### Arremessador Ligeiro
+
+Você pode sacar armas com a propriedade Arremesso como parte do ataque com aquela arma.
+
+### Arremessador Pesado
+
+Se a arma corpo-a-corpo não tiver a propriedade Arremesso, trate-a como se tivesse Arremesso (distância 6/18). Se a arma tiver a propriedade Duas Mãos, você deve arremessá-la usando as duas mãos.  
+
+## Combate Brutal
+
+### Investida Brutal
+
+*Pré requisito: Força 13 ou maior*
+
+Quando você fizer a ação Disparada e terminar seu movimento dentro do alcance do seu ataque corpo-a-corpo de uma criatura, você pode fazer um ataque corpo-a-corpo como parte da mesma ação. Se você escolher Empurrar uma criatura com a ação de ataque ganha pelo Disparada, você pode empurrá-la até 3m e derrubá-la como parte do mesmo ataque Empurrar.
+
+### Lutador de Rua
+
+*Pré requisito: Força 13 ou maior*
+
+Você é proficiente com armas improvisadas e seus ataques desarmados dão 1d4 de dano. Quando atingir uma criatura com uma arma improvisada ou ataque desarmado no seu turno, você pode usar uma ação bônus para tentar Agarrar ou Empurrar a criatura.
+
+### Lutador Profissional
+
+*Pré requisito: Talento Lutador de Rua*
+
+O dado de dano do seus ataques desarmados progride como o da tabela do Monge, porém o seu menor dado de dano é o d6.
+
+### Lutador Sobrenatural
+
+*Pré requisito: Talento Lutador Profissional*
+
+O seus golpes desarmados contam como armas mágicas com o propósito de ultrapassar a resistência ou imunidade a ataques e danos não-mágicos.
+
+### Punho de Ferro
+
+Quando for fazer um ataque desarmado, você pode escolher não ter o bônus de proficiência, se o ataque acertar adicione o dobro da sua proficiência no dano. 
+
+### Agarrador
+
+Você pode usar uma ação bônus para agarrar uma criatura derrubada. Além disso, você tem vantagem nos ataques corpo-a-corpo contra alvos Agarrados.
+
+\page
+
+### Ataque Brutal
+
+Uma vez por turno, quando rolar o dano de um ataque corpo-a-corpo, você pode rolar os dados de dano duas vezes e escolher o melhor resultado. Se estiver adicionando mais dados de dano ao ataque (como em um crítico ou ataque escondido) você rola esses dados normalmente.
+
+### Ataque Brutal II
+
+*Pré requisito: Talento Ataque Brutal*
+
+Ao invés de rolar os dados, você pode escolher o valor máximo dos dados.
+
+### Ataque Letal
+
+Quando for fazer um ataque corpo-a-corpo com uma arma que seja proficiente, você pode escolher não ter o bônus de proficiência, se o ataque acertar adicione o dobro da sua proficiência no dano.
+
+### Ataque com Pomo
+
+Quando estiver com uma arma corpo-a-corpo que seja proficiente, como uma ação bônus você pode fazer um ataque com essa arma usando o seu pomo, podendo adicionar seu modificador de habilidade no dano.
+
+
+## Armas de Uma Mão
+<br>
+
+### Combatente Agil
+
+Quando estiver segurando uma arma corpo-a-corpo em uma mão que você seja proficiente e não tenha nada na outra mão, trate a arma como se tivesse a propriedade Acuidade.
+
+### Desabilitar
+
+Quando for fazer um ataque corpo-a-corpo com uma arma que seja proficiente e não tenha nada na outra mão, você pode escolher não ter o bônus de proficiência, se o ataque acertar a criatura tem desvantagem no próximo ataque que fizer antes do final do turno dela.
+
+### Parry
+
+Quando estiver com uma arma corpo-a-corpo em uma mão que você seja proficiente e não tenha nada na outra mão, quando uma criatura te acertar com um ataque corpo-a-corpo, você pode usar sua reação para adicionar seu bônus de proficiência na sua CA para aquele ataque. potencialmente o fazendo errar.
+
+### Parry Aprimorado
+
+*Pré requisito: Talento Parry*
+
+Você mantém +2 no CA contra ataques corpo-a-corpo até o começo do seu próximo turno depois de usar Parry.
+
+### Desviar Projéteis
+
+Quando estiver com uma arma corpo-a-corpo em uma mão que não tenha a propriedade Pesada, que você seja proficiente e não tenha nada na outra mão, você pode tentar desviar o projétil. Depois da jogada de ataque, você pode usar sua reação para adicionar o seu bônus de proficiência na sua CA, potencialmente fazendo o ataque errar.
+
+### Desviar Projéteis Aprimorado
+
+*Pré requisito: Talento Desviar Projéteis*
+
+Você mantém +2 no CA contra ataques a distância até o começo do seu próximo turno
+
+### Alcance Estendido
+
+Quando estiver com uma arma corpo-a-corpo em uma mão que você seja proficiente e não tenha nada na outra mão, trate a arma como se tivesse a propriedade Alcance.
+
+### Luta Pessoal
+
+Quando fizer um ataque com uma arma corpo-a-corpo que seja proficiente e não tenha nada na outra, como uma ação bônus você pode usar as ações Empurrar ou Agarrar com sua mão livre.
+
+## Armas de Duas Mãos
+<br>
+
+### Sem Misericórdia
+
+No seu turno, quando você tirar um acerto crítico com uma arma que você seja proficiente e esteja segurando nas duas mãos, ou reduzir uma criatura a 0 pontos de vida, você pode fazer um ataque adicional com a arma usando sua ação bônus.
+
+### Sem Misericórdia II
+
+*Pré requisito: Talento Sem Misericórdia*
+
+O ataque adicional passa a ser junto com sua ação, você só pode receber o benefício dessa característica uma vez no seu turno.
+
+### Arma Pronta
+
+Enquanto estiver com uma arma que você esteja segurando nas duas mãos, seja proficiente e que tenha a propriedade Alcance, as criaturas também provocam ataque de oportunidade quando entram no seu alcance com essa arma. 
+
+## Arma e Escudo
+<br>
+
+### Empurrão com Escudo
+
+*Pré requisito: Proficiência em Escudos*
+
+Você pode usar sua ação bônus para tentar Empurrar uma criatura a até 1,5m de você com seu escudo. 
+
+\page
+
+### Empurrão com Escudo Aprimorado
+
+*Pré requisito: talento Empurrão com Escudo*
+
+Com um Empurrão bem sucedido, a criatura também cai no chão após ser empurrada 1,5m.
+
+### Posição Protegida
+
+*Pré requisito: Proficiência em Escudos*
+
+Se não estiver incapacitado, você pode adicionar o bônus de CA do seu escudo em qualquer teste de resistência de destreza contra uma magia ou algum outro efeito nocivo.
+
+### Posição Perfeita
+
+*Pré requisito: Talento Posição Protegida*
+
+Se você tomaria metade do dano com um sucesso no teste, você pode usar sua reação para não tomar nenhum dano se passar no teste e metade do dano se falhar no teste.
+
+### Pancada com Escudo
+
+*Pré requisito: Proficiência em Escudos*
+
+Você pode usar sua ação bônus para atacar com o escudo, podendo adicionar seu modificador de habilidade no dano.
+
+### Preparar Escudo Rápido
+
+*Pré requisito: Proficiência em Escudos*
+
+Você pode equipar ou guardar o seu escudo com parte da mesma ação de interagir com objeto que você usou para sacar ou guardar a sua arma. Além disso, você pode guardar algum objeto que estava segurando junto com a mesma ação.
+
+### Luta Defensiva 
+
+*Pré requisito: Proficiência em Escudos*
+
+Quando for fazer um ataque com arma corpo-a-corpo que você seja proficiente e estiver segurando um escudo na outra mão, você pode escolher não ganhar o bônus de proficiência, se o ataque acertar o alvo tem desvantagem em quaisquer ataques que fizer contra você até o final do seu próximo turno.
+
+## Furtividade
+<br>
+
+### Silencioso
+
+Se mover furtivamente não atrapalha seu movimento.
+
+### Um com as Sombras
+
+*Pré requisito: Proficiência em Furtividade*
+
+Você pode tentar se esconder mesmo se estiver apenas levemente obscurecido da criatura que você está se escondendo.
+
+### Sniper Invisível
+
+Quando você está escondido de uma criatura e errar um ataque à distância com arma, sua posição não é revelada.
+
+### Sniper Invisível II
+
+*Pré requisito: Talento Sniper Invisível*
+
+Você pode usar sua reação para tentar se esconder novamente se sua posição for revelada por acertar o alvo.
+
+### Ver nas Sombras
+
+Penumbra não impõe desvantagem nos seus testes de sabedoria (Percepção) referentes a visão.
+
+### Ver no Escuro
+
+*Pré requisito: Talento Ver nas Sombras*
+
+Você pode ver no escuro como se tivesse visão no escuro a 18m, se já tiver visão no escuro, aumente a alcance em 9m.
+
+### Audição Aguçada
+
+Você tem vantagem em testes de sabedoria (Perception) referentes a audição.
+
+### Escapar de Armadilhas
+
+Você tem vantagem em testes de resistência para evitar ou resistir armadilhas.
+
+### Resistência Contra Armadilhas
+
+Você tem resistência contra o dano causado por armadilhas.
+
+### Viajante Alerta
+
+Viajar a passo rápido não impõe a penalidade de -5 na sua percepção passiva.
+
+
+## Sobrevivência
+<br>
+
+### Médico de Combate
+
+Quando você usar um Kit Médico para estabilizar uma criatura morrendo, essa criatura também recupera 1 ponto de vida.
+
+### Doutor
+
+Você pode gastar um uso do seu Kit Médico para cuidar de uma criatura e restaurar (1d6 + 4 + número máximo de dados de vida da criatura) como pontos de vida nela. A criatura não pode recuperar pontos de vida dessa característica de novo até fazer um descanso curto ou longo.
+
+### Líder Inspirador
+
+Você pode passar 10 minutos inspirando seus companheiros, melhorando sua capacidade de lutar. Escolha até 6 criaturas amigáveis (pode incluir você também) a até 9m que podem ver ou ouvir você e que podem entender você. Cada criatura ganha metade do seu nível, arredondado para cima, em pontos de vida temporários até o próximo descanso longo que fizer. Uma criatura não pode ganhar pontos de vida temporários dessa característica de novo até fazer um descanso curto ou longo.
+
+\page
+
+### Líder Nato
+
+*Pré requisito: Talento Líder Inspirador*
+
+Os pontos de vida temporários aumentam para o seu nível + seu modificador de Carisma.
+
+### Sorte
+
+Você ganha um ponto de sorte. A qualquer momento que você realizar uma jogada de ataque, teste de habilidade ou teste de resistência, você pode gastar o ponto de sorte para rolar um d20 adicional. Você pode escolher gastar um dos seus pontos de sorte depois de rolar o dado, mas antes de saber o resultado da jogada. Você escolhe qual dos d20s irá usar para a jogada de ataque, teste de habilidade ou teste de resistência.
+
+Você também pode gastar um ponto de sorte quando uma jogada de ataque for feita contra você. Role um d20, e então escolha se o ataque irá usar a jogada do atacante ou a sua.
+
+Se mais de uma criatura gastar um ponto de sorte para influenciar uma mesma jogada, os pontos se cancelam mutuamente; nenhum dado adicional é rolado.
+
+Você recupera seus pontos de sorte gastos após terminar um descanso longo. 
+
+## Estratégias
+<br>
+
+### Estrategista de Combate
+
+Você aprende uma manobra de combate da sua escolha da lista do guerreiro mestre de batalha. O seu CD da manobra é igual a 8 + Bônus Proficiência + Modificador de Força ou Destreza, a sua escolha. Você ganha um dado de superioridade, que é 1d6, e ele acumula com quaisquer outros dados de superioridade que você tenha de outra fonte. Esse dado é usado para fazer a manobra. Você recupera todos os dados de superioridade quando termina um descanso curto ou longo. 
+
+Você pode escolher esse talento diversas vezes. A cada vez que o fizer, você deve escolher uma manobra diferente.
+
+### Ataque Debilitante
+
+Quando você acerta um ataque de oportunidade, o deslocamento da criatura se torna 0 para o resto daquele turno.
+
+### Sentinela
+
+Criaturas provocam ataques de oportunidade de você mesmo que usem a ação Desengajar antes de saírem do seu alcance.
+
+#### Guarda Costas 
+
+ Quando uma criatura dentro do seu alcance de ataque corpo-a-corpo faz um ataque contra um alvo diferente de você (e o alvo não tem esse talento), você pode usar sua reação para fazer um ataque corpo-a-corpo contra a criatura. 
+
+```
+```
+
+## Durabilidade
+<br>
+
+### Resistente
+
+Quando pegar esse talento, aumente seus pontos de vida máximos pelo seu nível, e a cada nível ganho depois disso adicione 1 ponto de vida a mais em sua vida máxima.
+
+### Robusto
+
+*Pré requisito: Talento Resistente*
+
+Você ganha o dobro dos benefícios do talento Resistente.
+
+### Durável
+
+Quando você gasta um dado de vida para recuperar pontos de vida, ao invés de rolar, considere o maior resultado possível no dado. 
+
+
+### Persistente
+
+Seus pontos de vida máximo não podem ser reduzidos.
+
+### Durão
+
+Você não sofre pontos de exaustão por cair a 0 pontos de vida.
+
+### Recuperação Formidável
+
+*Pré requisito: Talento Durão*
+
+Você pode recuperar dois pontos de exaustão por descanso longo.
+
+### Resiliente
+
+Você ganha proficiência em um teste de resistência de uma habilidade a sua escolha.
+
+Você pode escolher esse talento diversas vezes, mas apenas uma vez por incremento de habilidade. A cada vez que o fizer, você deve escolher uma habilidade diferente.
+
