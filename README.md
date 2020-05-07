@@ -12,6 +12,10 @@ Vários talentos novos. Eles fornecem menos benefícios, mas é possível pegar 
 
 Não alterei as armaduras pois não vi necessidade. As armas e escudos têm mecânicas novas que deixarão o combate mais dinâmico, além de tornar cada arma mais única.
 
+### Mecânicas
+
+Algumas mecânicas gerais alteradas, como flaking e possíveis ações em combate.
+
 ### Agradecimentos
 
 Plataforma usada para formatar os pdfs: https://homebrewery.naturalcrit.com.
