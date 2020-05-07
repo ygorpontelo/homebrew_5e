@@ -90,5 +90,5 @@ O humano variante não existe mais.
 
 - Você tem uma quantidade de pontos iguais ao seu modificador de Inteligência. Você pode adquirir proficiências extras em perícias, ferramentas ou aprender dois novos idiomas por cada ponto que tiver.
 
-
+- Seus ataques desarmados podem ser considerados ataques com arma corpo-a-corpo, para efeito de ganhar o benefício de alguma habilidade ou característica. 
 
