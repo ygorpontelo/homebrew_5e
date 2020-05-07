@@ -395,7 +395,7 @@ Se você possui um foco de magia de alguma classe que você tenha algum nível, 
 
 ### Magia Moldável
 
-Você aprende uma Metamágica da lista do feiticeiro e ganha um ponto de Metamágica. Você gasta esse ponto para usar a Metamágica. Você recupera todos os pontos gastos quando termina um descanso longo. Esses pontos não são pontos de feitiçaria e você deve contá-los separadamente, porém eles podem ser gastos para usar qualquer Metamágica que você conhece por outros meios.
+Você aprende uma Metamágica da lista do feiticeiro e ganha um ponto de Metamágica. Você usa Carisma como habilidade para as metamágicas. Você gasta esse ponto para usar a Metamágica. Você recupera todos os pontos gastos quando termina um descanso longo. Esses pontos não são pontos de feitiçaria e você deve contá-los separadamente, porém eles podem ser gastos para usar qualquer Metamágica que você conhece por outros meios.
 
 ### Magia Moldável II
 
@@ -504,16 +504,11 @@ O dado de dano do seus ataques desarmados progride como o da tabela do Monge, po
 *Pré requisito: Talento Lutador Profissional*
 
 O seus golpes desarmados contam como armas mágicas com o propósito de ultrapassar a resistência ou imunidade a ataques e danos não-mágicos.
-
-### Punho de Ferro
-
-Quando for fazer um ataque desarmado, você pode escolher não ter o bônus de proficiência, se o ataque acertar adicione o dobro da sua proficiência no dano. 
+ 
 
 ### Agarrador
 
 Você pode usar uma ação bônus para agarrar uma criatura derrubada. Além disso, você tem vantagem nos ataques corpo-a-corpo contra alvos Agarrados.
-
-\page
 
 ### Ataque Brutal
 
@@ -524,6 +519,8 @@ Uma vez por turno, quando rolar o dano de um ataque corpo-a-corpo, você pode ro
 *Pré requisito: Talento Ataque Brutal*
 
 Ao invés de rolar os dados, você pode escolher o valor máximo dos dados.
+
+\page
 
 ### Ataque Letal
 
@@ -599,8 +596,6 @@ Enquanto estiver com uma arma que você esteja segurando nas duas mãos, seja pr
 
 Você pode usar sua ação bônus para tentar Empurrar uma criatura a até 1,5m de você com seu escudo. 
 
-\page
-
 ### Empurrão com Escudo Aprimorado
 
 *Pré requisito: talento Empurrão com Escudo*
@@ -624,6 +619,8 @@ Se você tomaria metade do dano com um sucesso no teste, você pode usar sua rea
 *Pré requisito: Proficiência em Escudos*
 
 Você pode usar sua ação bônus para atacar com o escudo, podendo adicionar seu modificador de habilidade no dano.
+
+\page
 
 ### Preparar Escudo Rápido
 
@@ -702,8 +699,6 @@ Você pode gastar um uso do seu Kit Médico para cuidar de uma criatura e restau
 
 Você pode passar 10 minutos inspirando seus companheiros, melhorando sua capacidade de lutar. Escolha até 6 criaturas amigáveis (pode incluir você também) a até 9m que podem ver ou ouvir você e que podem entender você. Cada criatura ganha metade do seu nível, arredondado para cima, em pontos de vida temporários até o próximo descanso longo que fizer. Uma criatura não pode ganhar pontos de vida temporários dessa característica de novo até fazer um descanso curto ou longo.
 
-\page
-
 ### Líder Nato
 
 *Pré requisito: Talento Líder Inspirador*
@@ -719,6 +714,8 @@ Você também pode gastar um ponto de sorte quando uma jogada de ataque for feit
 Se mais de uma criatura gastar um ponto de sorte para influenciar uma mesma jogada, os pontos se cancelam mutuamente; nenhum dado adicional é rolado.
 
 Você recupera seus pontos de sorte gastos após terminar um descanso longo. 
+
+\page
 
 ## Estratégias
 <br>
@@ -740,9 +737,6 @@ Criaturas provocam ataques de oportunidade de você mesmo que usem a ação Dese
 #### Guarda Costas 
 
  Quando uma criatura dentro do seu alcance de ataque corpo-a-corpo faz um ataque contra um alvo diferente de você (e o alvo não tem esse talento), você pode usar sua reação para fazer um ataque corpo-a-corpo contra a criatura. 
-
-```
-```
 
 ## Durabilidade
 <br>
@@ -769,6 +763,9 @@ Seus pontos de vida máximo não podem ser reduzidos.
 ### Durão
 
 Você não sofre pontos de exaustão por cair a 0 pontos de vida.
+
+```
+```
 
 ### Recuperação Formidável
 

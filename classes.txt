@@ -464,7 +464,7 @@ Ao usar essas botas, uma criatura pode se teletransportar até 6 metros como uma
 
 *Item: Uma cajado, bastão ou varinha (requer sintonização)*
 
-Enquanto segura este item, uma criatura ganha +1 de bônus por conjurar jogadas de ataque. além disso, a criatura ignora meia cobertura ao fazer um ataque de magia.
+Enquanto segura este item, uma criatura ganha +1 de bônus nas jogadas de ataque com magia. além disso, a criatura ignora meia cobertura ao fazer um ataque de magia.
 
 O bônus aumenta para +2 quando você atingir o 10º nível nesta classe.
 
@@ -946,9 +946,7 @@ O Caminho do Guerreiro Totêmico é uma jornada espiritual, à partir do momento
 
 #### Conselheiro Espiritual
 
-Seu caminho é buscar a sintonia com o mundo natural, concedendo a você uma afinidade com as bestas. A partir do 3° nível, quando você toma esse caminho, você recebe a habilidade de conjurar as magias *sentido bestial* e *falar com* 
-
-*animais* como descrito no capítulo 10 uma única vez cada uma. Você não pode conjurá-las novamente dessa forma até terminar um descanso longo. 
+Seu caminho é buscar a sintonia com o mundo natural, concedendo a você uma afinidade com as bestas. A partir do 3° nível, quando você toma esse caminho, você recebe a habilidade de conjurar as magias *sentido bestial* e *falar com animais* como descrito no capítulo 10 uma única vez cada uma. Você não pode conjurá-las novamente dessa forma até terminar um descanso longo. 
 
 #### Totel Espiritual
 
@@ -1022,7 +1020,7 @@ Arautos da tempestade são típicos campeões de elite que treinam junto a druid
 
 #### Aura da Tempestade
 
-Começando no 3° nível, você emana uma aura tempestuosa e mágica enquanto você se enfurece. A aura se estende a 3 metros de você em todas as direções, mas não através de cobertura total. Sua aura tem um efeito que se ativa quando você entra na sua fúria, e você pode ativar o efeito novamente em cada um cios seus tumos como uma ação bônus. Escolha entre deserto, mar ou tundra. O efeito da aura depende do ambiente escolhido, conforme detalhado abaixo. Você pode alterar sua escolha de ambiente sempre que você ganha um nível nesta classe.
+Começando no 3° nível, você emana uma aura tempestuosa e mágica enquanto você se enfurece. A aura se estende a 3 metros de você em todas as direções, mas não através de cobertura total. Sua aura tem um efeito que se ativa quando você entra na sua fúria, e você pode ativar o efeito novamente em cada um cios seus turnos como uma ação bônus. Escolha entre deserto, mar ou tundra. O efeito da aura depende do ambiente escolhido, conforme detalhado abaixo. Você pode alterar sua escolha de ambiente sempre que você ganha um nível nesta classe.
 
 A aura emula a dificuldade de cada bioma, os inimigos dela devem provar sua resilência contra sua fúria. Cada criatura hostil à você deve fazer um teste de resistência de constituição, o CD da aura é igual a 8 + seu bônus de proficiência + seu modificador de constituição. As criaturas tomam 1d6 de dano caso falharem no teste ou metade caso passem. O dano aumenta quando você atinge determinados níveis nesta classe, para 2d6 no 5º nível, 3d6 no 10º nível, 4d6 no 15° nível. O tipo de dano depende do ambiente escolhido.
 
@@ -1050,13 +1048,13 @@ Criaturas amigáveis a você adquirem a característica Alma da Tempestade com o
 
 #### Tempestade Furiosa
 
-No 14° nível, o poder da tempestade que você canaliza cresce mais forte. Toda vez que ativar o efeito da sua aura, você pode escolher uma criatura que possa ver na aura. Essa criatura tem desvantagem no teste de resistência contra a aura e esta ignora a resistência ao tipo de dano do bioma. Além disso, se a criatura falhar no teste, um efeito baseado no bioma é aplicado.
+No 14° nível, o poder da tempestade que você canaliza cresce mais forte. Toda vez que ativar o efeito da sua aura, você pode escolher uma criatura que possa ver na aura. Essa criatura tem desvantagem no teste de resistência contra a aura, se a criatura for imune ao dano, trate como se ela tivesse resistência (esta não é ignorada pela alma da tempestade). Além disso, se a criatura falhar no teste, um efeito baseado no bioma é aplicado.
 
 **Deserto.** A criatura é cegada, como se olhasse para o sol diretamente.
 
 **Mar.** A criatura é derrubada, como se tivesse sido atingido por uma onda.
 
-**Tundra.**  O deslocamento da criatura é reduzido para O até o início do seu próximo tumo, pois uma geada mágica o encobre. 
+**Tundra.**  O deslocamento da criatura é reduzido para O até o início do seu próximo turno, pois uma geada mágica o encobre. 
 
 
 ### Fanático
@@ -1082,7 +1080,7 @@ A partir do 6° nível, o poder divino que abastece sua fúria pode protegê-lo.
 
 #### Presença Zelosa
 
-No 10° nível, você aprende a canalizar o poder divino para inspirar o fanatismo nos outros. Como uma ação bônus, você desencadeia um grito de batalha imbuído com energia divina. Até dez outras criaturas de sua escolha a até 18 metros que possam lhe ouvir ganham vantagem em jogadas de ataque e testes de resistência até o início do seu próximo tumo. Depois de usar esta característica, você não pode usá-la novamente até terminar um descanso curto ou longo. 
+No 10° nível, você aprende a canalizar o poder divino para inspirar o fanatismo nos outros. Como uma ação bônus, você desencadeia um grito de batalha imbuído com energia divina. Até dez outras criaturas de sua escolha a até 18 metros que possam lhe ouvir ganham vantagem em jogadas de ataque e testes de resistência até o início do seu próximo turno. Depois de usar esta característica, você não pode usá-la novamente até terminar um descanso curto ou longo. 
 
 #### Fúria Além da Morte
 
@@ -1213,7 +1211,7 @@ No 3° nível, você investiga as técnicas avançadas de um colégio de bardo, 
 
 ### Aptidão
 
-No 3° nível, escolha duas das perícias em que você é proficiente. Seu bônus de proficiência é dobrado em qualquer teste de habilidade que você fizer que utilize qualquer das perícias escolhidas. No 10° nível, você escolhe mais duas perícias em que é proficiente para ganhar esse benefício. 
+No 3° nível, escolha duas das perícias em que você é proficiente. Você ganha expertise nas perícias escolhidas. No 10° nível, você escolhe mais duas perícias em que é proficiente para ganhar esse benefício. 
 
 \page
 
@@ -1326,7 +1324,7 @@ Se você fizer isso, por pelo menos um minuto, você pode tentar inspirar admira
 
 #### Manto da Majestade 
 
-No 6° nível, você ganha a habilidade de se cobrir com uma magia feérica que faz com que os outros queiram servi-lo. Como uma ação bônus, você conjura *comando*, sem gastar um espaço de magia, e adquire uma aparência de beleza sobrenatural por 1 minuto ou até que sua concentração acabe (como se estivesse concentrando em uma magia). Durante este tempo, você pode conjurar *comando* como uma ação bônus em qualquer um de seus tumos, sem gastar um espaço de magia.
+No 6° nível, você ganha a habilidade de se cobrir com uma magia feérica que faz com que os outros queiram servi-lo. Como uma ação bônus, você conjura *comando*, sem gastar um espaço de magia, e adquire uma aparência de beleza sobrenatural por 1 minuto ou até que sua concentração acabe (como se estivesse concentrando em uma magia). Durante este tempo, você pode conjurar *comando* como uma ação bônus em qualquer um de seus turnos, sem gastar um espaço de magia.
 
 Qualquer criatura encantada por uma conjuração utilizando essa característica automaticamente falha em testes de resistências posteriores contra a magia comando.
 
@@ -1338,7 +1336,7 @@ Uma vez usado esta característica, só poderá usá-la novamente após terminar
 
 No 14° nível, sua aparência ganha traços permanentes que faz com que um aspecto de outro mundo, parecendo mais adorável e feroz. Além disso, como uma ação de bônus, você pode assumir uma presença magicamente majestosa por 1 minuto ou até que esteja incapacitado. Durante a duração, sempre que uma criatura tenta atacá-lo pela primeira vez em um turno, o atacante deve fazer um teste de resistência de Carisma contra o CD de resistência à magia. 
 
-Se falhar, não poderá ataca-lo neste tumo e deverá escolher um novo alvo ou o ataque é cancelado. Em caso de um teste bem sucedido, a criatura poderá ataca-lo neste turno, mas terá desvantagem em qualquer teste de resistência contra suas magias no pŕoximo turno.
+Se falhar, não poderá ataca-lo neste turno e deverá escolher um novo alvo ou o ataque é cancelado. Em caso de um teste bem sucedido, a criatura poderá ataca-lo neste turno, mas terá desvantagem em qualquer teste de resistência contra suas magias no pŕoximo turno.
 
 Uma vez que assuma essa presença majestosa, não poderá fazê-lo até terminar um descanso curto ou longo.
 
@@ -1367,7 +1365,7 @@ No 3° nível, você adota um estilo de luta como sua especialidade. Escolha uma
 
 #### Floreio de Lâminas
 
-No 3° nível, você aprende a realizar exibições impressionantes de proeza e velocidade marcial. Sempre que você toma a ação de Ataque no seu tumo, sua velocidade de caminhada aumenta 3 metros até o final do tumo, se um ataque com arma que você faz como parte dessa ação atingir uma criatura, você pode usar uma das seguintes opções de Floreios de Lâmina de sua escolha. Você pode usar apenas uma opção por turno.
+No 3° nível, você aprende a realizar exibições impressionantes de proeza e velocidade marcial. Sempre que você toma a ação de Ataque no seu turno, sua velocidade de caminhada aumenta 3 metros até o final do turno, se um ataque com arma que você faz como parte dessa ação atingir uma criatura, você pode usar uma das seguintes opções de Floreios de Lâmina de sua escolha. Você pode usar apenas uma opção por turno.
 
 **Floreio Defensivo.** Você pode gastar uma Inspiração de Bardo para causar dano extra ao alvo que acerta. O dano é igual ao número que você rola no dado de inspiração de bardo. Você também adiciona o número rolado a sua CA até o início de seu próximo turno.
 
@@ -1377,7 +1375,7 @@ No 3° nível, você aprende a realizar exibições impressionantes de proeza e 
 
 #### Ataque Extra
 
-No 6° nível, você pode atacar duas vezes ao invés de uma, sempre que você toma a ação Atacar em seu tumo. 
+No 6° nível, você pode atacar duas vezes ao invés de uma, sempre que você toma a ação Atacar em seu turno. 
 
 #### Floreio do Mestre
 
@@ -1395,7 +1393,7 @@ Quando você entra no Colégio dos Sussurros no 3º nível, você ganha a habili
 
 \page
 
-Quando você ataca uma criatura com um ataque com arma, você pode gastar uma Inspiração de Bardo para causar um dano extra psíquico de 2d6 no alvo. Você pode fazer isso somente uma vez por tumo. O dano psíquico aumenta conforme você atinge determinados níveis nesta classe, para 3d6 no 5° nível, 5d6 no 10° nível e 8d6 no 15° nível.
+Quando você ataca uma criatura com um ataque com arma, você pode gastar uma Inspiração de Bardo para causar um dano extra psíquico de 2d6 no alvo. Você pode fazer isso somente uma vez por turno. O dano psíquico aumenta conforme você atinge determinados níveis nesta classe, para 3d6 no 5° nível, 5d6 no 10° nível e 8d6 no 15° nível.
 
 
 #### Palavras de Terror
@@ -1794,7 +1792,7 @@ A partir do 10° nível, você ganha pontos de vida temporários sempre que term
 
 #### Vingança Ardente
 
-A partir do 14° nível, a energia radiante que você canaliza o permite que resista à morte. Quando tiver que realizar um teste de resistência contra a morte a morte no início do seu tumo, pode, em vez disso, se levantar com uma explosão de energia radiante. Você recupera pontos de vida iguais à metade do seu pontos de vida máximo, e então se levanta se assim o desejar. Cada criatura de sua escolha que esteja dentro do alcance de 9 metros recebe dano radiante igual a 2d8 + seu modificador Carisma, e está cego até o começo do seu próximo turno.
+A partir do 14° nível, a energia radiante que você canaliza o permite que resista à morte. Quando tiver que realizar um teste de resistência contra a morte a morte no início do seu turno, pode, em vez disso, se levantar com uma explosão de energia radiante. Você recupera pontos de vida iguais à metade do seu pontos de vida máximo, e então se levanta se assim o desejar. Cada criatura de sua escolha que esteja dentro do alcance de 9 metros recebe dano radiante igual a 2d8 + seu modificador Carisma, e está cego até o começo do seu próximo turno.
 
 Depois de usar esta característica, não pode usá-la novamente até terminar um descanso longo. 
 
@@ -2038,7 +2036,7 @@ com a sua voz, mesmo que seu familiar, normalmente, seja incapaz de falar.
 
 #### Aperto de Hadar
 
-Uma vez em cada um dos seus tumos, quando atingir uma criatura com sua Rajada Mística, você pode deslocar essa criatura em uma linha reta 3 metros em sua direção. 
+Uma vez em cada um dos seus turnos, quando atingir uma criatura com sua Rajada Mística, você pode deslocar essa criatura em uma linha reta 3 metros em sua direção. 
 
 #### Arma de Pacto Aprimorada
 
@@ -3037,7 +3035,7 @@ Além disso, enquanto estiver na Forma Selvagem, você pode gastar um espaço de
 
 #### Forma Selvagem de Elemental
 
-No 10° nível, você pode gastar dois usos da sua Forma Selvagem, ao mesmo tempo, para se transformar em um elemental da água, elemental do ar, elemental do fogo ou elemental da terra. Quando o fizer, você precisa apenas gastar um espaço de magia de nível 3 ao invés de 5. 
+No 10° nível, você pode gastar dois usos da sua Forma Selvagem, ao mesmo tempo, para se transformar em um elemental da água, elemental do ar, elemental do fogo ou elemental da terra. Quando o fizer, você precisa apenas gastar um espaço de magia de nível 3. 
 
 #### Forma Mortífera
 
@@ -3087,7 +3085,7 @@ No 14º nível, a magia da Agrestia das Fadas lhe concede a capacidade de viajar
 
 Quando terminar um descanso curto, você pode conjurar uma das seguintes magias, sem gastar um espaço de magia ou exigir componentes materiais: sonho (com você atuando como o mensageiro), vidência ou círculo de teleporte.
 
-Este uso do círculo de teleporte é especial. Ao invés de abrir um portal para um círculo de teleporte permanente, ele abre um portal para o último local onde terminou um descanso longo no seu plano de existência atual. Se você não fez um descanso longo no seu plano atual, a magia falhará, você pode escolher fazer um outra opção das três.
+Este uso do círculo de teleporte é especial. Ao invés de abrir um portal para um círculo de teleporte permanente, ele abre um portal para o último local onde terminou um descanso longo no seu plano de existência atual. Se você não fez um descanso longo no seu plano atual, a magia falhará, mas você pode escolher fazer um outra opção das três.
 
 
 \page
@@ -3129,7 +3127,7 @@ A partir do 10° nível, o seu Espírito Totêmico protege os animais e feérico
 
 #### Chamado de Fidelidade
 
-A partir do 14° nível, os espíritos da natureza com os quais você comunga o protegem quando estiver mais indefeso. Se você for reduzido a O pontos de vida ou estiver incapacitado contra sua vontade, pode ganhar imediatamente os beneficios da magia conjurar animais, como se fosse conjurado usando um espaço de magias do nível 9. Convoca quatro bestas de sua escolha, desde que sejam de um nível de desafio 2 ou inferior. Os animais conjurados aparecem em até de 6 metros de alcance. Se eles não recebem nenhum comando seu, eles o protegem contra danos e atacam seus inimigos. A magia dura 1 hora, não requer nenhuma concentração, ou até que a descarte (não é necessária nenhuma ação).
+A partir do 14° nível, os espíritos da natureza com os quais você comunga o protegem quando estiver mais indefeso. Se você for reduzido a O pontos de vida ou estiver incapacitado contra sua vontade, pode ganhar imediatamente os beneficios da magia conjurar animais, como se fosse conjurado usando um espaço de magias do nível 9. Quatro bestas de sua escolha são convocadas, desde que sejam de um nível de desafio 2 ou inferior. Os animais conjurados aparecem em até de 6 metros de alcance. Se eles não recebem nenhum comando seu, eles o protegem contra danos e atacam seus inimigos. A magia dura 1 hora, não requer nenhuma concentração, ou até que a descarte (não é necessária nenhuma ação).
 
 Depois de usar esta característica, não pode usá-la novamente até terminar um descanso longo. 
 
@@ -3300,7 +3298,7 @@ Quando você conjurar uma magia que tenha duração de 1 minuto ou maior, você 
 
 #### Magia Potencializada
 
-Quando você rola o dano de uma magia, você pode gastar 1 ponto de feitiçaria para jogar novamente um número de dados de dano, até seu modificador de Carisma (mínimo de um). Você deve usar a nova rolagem. Você pode usar Magia Potencializada mesmo que você já tenha usado uma opção diferente de Metamágica durante a conjuração da magia.
+Quando você rola o dano de uma magia, você pode gastar 1 ponto de feitiçaria para jogar novamente um número de dados de dano, até seu modificador de Carisma (mínimo de um). Você pode escolher usar a nova rolagem. Você pode usar Magia Potencializada mesmo que você já tenha usado uma opção diferente de Metamágica durante a conjuração da magia.
 
 #### Magia Sutil
 
@@ -3903,7 +3901,7 @@ resistência e a imunidade não mágica para ataques e danos. A magia desaparece
 
 #### Tiro Curvado
 
-No 7 ° nível, você aprende a direcionar uma flecha sem destino em direção a um novo alvo. Quando realiza um ataque com uma flecha mágica e erra, pode usar uma ação bônus para rolar novamente a jogada de ataque contra um alvo diferente dentro de 18 metros cio alvo original. 
+No 7 ° nível, você aprende a direcionar uma flecha sem destino em direção a um novo alvo. Quando realiza um ataque com uma flecha mágica e erra, pode usar uma ação bônus para rolar novamente a jogada de ataque contra um alvo diferente dentro de 18 metros do alvo original. 
 
 #### Disparo Arcano Superior
 
@@ -3972,7 +3970,7 @@ No início do 3° nível, você pode ameaçar seus inimigos, frustrar seus ataqu
 
 Enquanto estiver dentro de 1,5 metros de alcance, uma criatura marcada por você tem desvantagem em qualquer ataque que não o tenha como alvo.
 
-Além disso, se uma criatura marcada por você causar dano a alguém além de ti, você usar sua reação para fazer um ataque corpo-a-corpo contra a criatura marcada. Você tem Vantagem no ataque, e se ele atingir, a arma de ataque causa dano extra igual metade do seu nível de guerreiro.
+Além disso, se uma criatura marcada por você causar dano a alguém além de ti, você usar sua reação para fazer um ataque corpo-a-corpo contra a criatura marcada. Você tem vantagem no ataque, e se ele atingir, a arma de ataque causa dano extra igual metade do seu nível de guerreiro.
 
 #### Manobra de Proteção
 
@@ -4016,7 +4014,7 @@ A partir do 10º, quando rolar iniciativa, recupere um uso de Espírito Guerreir
 
 #### Golpe Rápido
 
-A partir do 15° nível, você aprende a trocar a precisão cios seus ataques por um golpe veloz. Se escolher fazer uma ação de Ataque no seu tumo e tiver vantagem em um ataque contra um dos alvos, pode renunciar à vantagem desse rolamento para fazer um ataque armado adicional contra esse alvo. Você pode fazer isso somente uma vez por turno. 
+A partir do 15° nível, você aprende a trocar a precisão dos seus ataques por um golpe veloz. Se escolher fazer uma ação de Ataque no seu turno e tiver vantagem em um ataque contra um dos alvos, pode renunciar à vantagem desse rolamento para fazer um ataque armado adicional contra esse alvo. Você pode fazer isso somente uma vez por turno. 
 
 #### Força Diante da Morte
 
@@ -4136,7 +4134,7 @@ No 14º nível, se você for capaz de ouvir, você está ciente da localização
 
 ### Mente Escorregadia
 
-No 15º nível, você adquire uma grande força de vontade, adquirindo proficiência nos testes de resistência de Sabedoria. 
+No 15º nível, você adquire uma grande força de vontade, adquirindo proficiência nos testes de resistência de Sabedoria. Caso já possua, escolha Carisma ou Inteligência no lugar. 
 
 ### Elusivo
 
@@ -4164,7 +4162,7 @@ Quando você escolhe esse arquétipo, no 3° nível, você ganha proficiência c
 
 #### Assassinar
 
-A partir do 3° nível, você fica mais mortal quando pega seus oponentes desprevenidos. Você tem vantagem nas jogadas de ataque contra qualquer criatura que ainda não tenha tido seu turno dela no combate ainda. Além disso, qualquer ataque que você fizer contra essa criatura que está surpresa, será um ataque crítico. 
+A partir do 3° nível, você fica mais mortal quando pega seus oponentes desprevenidos. Você tem vantagem nas jogadas de ataque com arma contra qualquer criatura que ainda não tenha tido seu turno dela no combate ainda. Além disso, qualquer ataque que você fizer contra essa criatura que está surpresa, será um ataque crítico. 
 
 Além disso, você pode usar a sua ação bônus concedida pela Ação Ardilosa para aplicar um veneno em sua arma.
 
@@ -4314,7 +4312,7 @@ No 3º nível você obtém a habilidade de decifrar a tática do oponente e dese
 
 #### Observador Constante
 
-Começando no 9º nível você tem vantagem em qualquer tipo de teste de Sabedoria (Percepção) ou Inteligência (Investigação) caso não tenha se movido mais da metade de seu deslocamento no mesmo tumo. 
+Começando no 9º nível você tem vantagem em qualquer tipo de teste de Sabedoria (Percepção) ou Inteligência (Investigação) caso não tenha se movido mais da metade de seu deslocamento no mesmo turno. 
 
 #### Olhar Inflexível
 
@@ -4814,7 +4812,7 @@ Uma variedade de escolas de magia se especializa em treinar magos para guerras. 
 
 #### Deflexão Arcana
 
-No 2 o nível, você aprendeu a moldar sua magia para se fortificar contra danos. Quando for atingido por um ataque ou falhar num teste de resistência, pode usar sua reação para ganhar +2 na CA contra aquele ataque ou um bônus de +4 naquele teste de resistência. Quando utilizar essa característica, não pode conjurar magias que não sejam truques até o final do próximo tumo.
+No 2 o nível, você aprendeu a moldar sua magia para se fortificar contra danos. Quando for atingido por um ataque ou falhar num teste de resistência, pode usar sua reação para ganhar +2 na CA contra aquele ataque ou um bônus de +4 naquele teste de resistência. Quando utilizar essa característica, não pode conjurar magias que não sejam truques até o final do próximo turno.
 
 #### Astúcia Tática
 
@@ -4953,7 +4951,7 @@ Quando você alcança o 3° nível, você ingressa numa tradição monástica, t
 
 A partir do 3° nível, você pode usar sua reação para defletir projéteis quando você é atingido por um ataque de arma à distância. Você reduz o dano de todos os ataques à distância até o início do seu próximo turno em 1d10 + seu modificador de Destreza + seu nível de monge cada um.
 
-Se o dano de um ataque for reduzido a 0, você pode apanhar o projétil se ele for pequeno o suficiente para ser segurando em uma mão e você tenha, pelo menos, uma mão livre. Se você apanhar um projétil dessa forma, você pode realizar uma ataque à distância com a arma ou munição que você acabou de pegar, como parte da mesma reação. Você realiza esse ataque com proficiência, independentemente das armas em que você é proficiente, e o projétil conta como uma arma de monge para o ataque. A distância do ataque do monge é de 6/18 metros. Você pode apanhar apenas um projétil dessa forma até o começo do seu próximo turno.
+Se o dano de um ataque for reduzido a 0, você pode apanhar o projétil se ele for pequeno o suficiente para ser segurando em uma mão e você tenha, pelo menos, uma mão livre. Se você apanhar um dos projéteis dessa forma, você pode realizar uma ataque à distância com a arma ou munição que você acabou de pegar, como parte da mesma reação. Você realiza esse ataque com proficiência, independentemente das armas em que você é proficiente, e o projétil conta como uma arma de monge para o ataque. A distância do ataque do monge é de 6/18 metros. Você pode apanhar apenas um projétil dessa forma até o começo do seu próximo turno.
 
 \page
 
@@ -6029,7 +6027,7 @@ No 18° nível, você ganha sentidos preternaturais que o ajudam a lutar contra 
 
 ### Matador de Inimigos
 
-No 20° nível, você se torna um caçador incomparável. Você pode adicionar seu modificador de Sabedoria nas jogadas de ataque e de dano que fizer contra seu inimigo favorito.
+No 20° nível, você se torna um caçador incomparável. Você pode adicionar um bônus igual ao seu modificador de Sabedoria nas jogadas de ataque e de dano que fizer contra seu inimigo favorito.
 
 ## Conclaves de Patrulheiro
 
@@ -6105,9 +6103,9 @@ No 7° nível, você ganha uma das seguintes características, à sua escolha.
 
 No 11° nível, você ganha uma das seguintes características, à sua escolha.
 
-**Saraivada.** Você pode usar sua ação para realizar um ataque à distância contra qualquer número de criatura a até 3 metros de um ponto que você possa ver, no alcance da sua arma. Você deve ter munição para cada alvo, como normal, e você realiza uma jogada de ataque separada para cada alvo.
+**Saraivada.** Você pode usar sua ação para realizar um ataque à distância com arma contra qualquer número de criatura a até 3 metros de um ponto que você possa ver, no alcance da sua arma. Você deve ter munição para cada alvo, como normal, e você realiza uma jogada de ataque separada para cada alvo.
 
-**Ataque Giratório.** Você pode usar sua ação para realizar um ataque corpo-a-corpo contra qualquer número de criaturas a até 1,5 metro de você, realizando uma jogada de ataque separada para cada alvo.
+**Ataque Giratório.** Você pode usar sua ação para realizar um ataque corpo-a-corpo com arma contra qualquer número de criaturas a até 1,5 metro de você, realizando uma jogada de ataque separada para cada alvo.
 
 #### Defesa de Caçador Superior
 

@@ -1,0 +1,94 @@
+<style>
+  .phb{
+    width : 210mm;
+    height : 296.8mm;
+  }
+</style>
+
+<style>
+  .phb#p1{ text-align:center; }
+  .phb#p1:after{ display:none; }
+</style>
+
+<div style='margin-top:450px;'></div>
+
+# Ações e Outras Mecânicas
+
+<div style='margin-top:25px'></div>
+<div class='wide'>
+##### Usar esse documento ao invés do livro.
+</div>
+
+\page
+
+
+#### Raças
+<br>
+
+##### Humano
+
+O humano variante não existe mais.
+
+##### Draconato
+
+- Sopro dos draconatos evolui igual cantrips, começa como sendo 1d10, se rolar 6 num d6 pode usar de novo, senão tem que terminar um descanso curto ou longo.
+
+- Recebem Darkvision 18m.
+
+- Mordida dá 1d6 + modificador de Força de dano, ataque desarmado.
+
+- É considerado com expertise em História quando o tópico for relacionado à dragões.
+
+<br>
+
+#### Ações
+<br>
+
+- Poções são ação bônus para beber.
+
+- Ataques corpo-a-corpo da ação Atacar podem ser: agarrar, empurrar, derrubar, desarmar. Todas precisam de um teste de Força (Atletismo) contra Força (Atletismo) ou Destreza (Acrobacia), à escolha do alvo.
+
+- O Agarrar precisa de ao menos uma mão livre. 
+
+- Empurrar empurra o alvo a até 1,5 metro. 
+
+- O Desarmar derruba a arma do alvo a até 1,5 metro dele. 
+
+- Quando usar a ação Interagir com Objeto (Usar Objeto), como parte de outra ação ou por si só, e este não esteja em sua posse, você provoca ataque de oportunidade.
+
+<br>
+
+#### Mecânicas Gerais
+<br>
+
+- Inspiração (Geral, não do bardo) funciona igual Sorte.
+
+- Cair para zero pontos de vida, você ganha 1 nível de exaustão.
+
+- Se dois inimigos estão em Escuridão, os dois tem desvantagem para atacar um ao outro. 
+
+- Críticos melhores:
+
+    - Ataque: Dobre os dados, se número de dados < 2: maximize 1 e role o outro, senão maximize 2 e role o resto.
+    - Saving Throws: Multiple o dano por 2 caso seja falha crítica, divida o dano por 2 caso seja acerto crítico. Se for efeito, pegue o modificador de conjuração de quem conjurou a magia, se tiver sido falha crítica o alvo fica sem poder repetir o teste de resistência pela quantidade de instâncias do modificador, caso contrário ele fica imune ao efeito pela quantidade de instâncias. As instâncias são mais comulmente turnos, mas podem ser outros períodos.
+    
+- Flanking: 
+	- 1 diagonal: +2 nos ataques.
+	- 2 diagonais: +5 nos ataques.
+	- 3 ou mais: Vantagem nos ataques.
+    
+    
+- Bloodied Condition: HP atual <= (HP total)/2. Fazer descrição do estado do monstro, habilidades recarregáveis voltam automaticamente, algumas habilidades ficam mais fortes.
+
+- Minion Rule: Um minion tem 1 de HP. Errar um ataque nunca machuca um minion. Se passar em testes de resistência, não sofre dano. Sempre dá dano médio. Nunca tem ações lendárias ou de covil.
+
+- Munição é contada por encontro, não individualmente.
+
+- Usar habilidades com mais de um atributo possível. Nadar por muito tempo pode ser um teste de Constituição (Atletismo).
+
+- Trabalhando junto: Além da vantagem, pode-se adicionar +2 ou +5, conforme mais pessoas vão ajudar. O que tem o maior modificador faz a jogada. Algumas tarefas podem necessitar que para poder ajudar, você precisa ser ao menos proficiênte na tarefa em questão, como talvez decifrar uma magia necessitar de proficiência em Arcanismo.
+
+- Você tem uma quantidade de pontos iguais ao seu modificador de Inteligência. Você pode adquirir proficiências extras em perícias, ferramentas ou aprender dois novos idiomas por cada ponto que tiver.
+
+
+
