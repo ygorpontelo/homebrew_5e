@@ -12,6 +12,10 @@ Vários talentos novos. Eles fornecem menos benefícios, mas é possível pegar 
 
 Equipamentos com mecânicas novas. Mecânicas gerais alteradas, como flaking e possíveis ações em combate. Regras de criação de itens mundanos e mágicos.
 
+### PDFs
+
+Acesse https://ygorpontelo.github.io/homebrew_5e/ para baixar os pdfs.
+
 ### Agradecimentos
 
 Plataforma usada para formatar os pdfs: https://homebrewery.naturalcrit.com.
