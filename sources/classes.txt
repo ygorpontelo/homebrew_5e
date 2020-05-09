@@ -1495,7 +1495,7 @@ Você pode criar mais de uma rajada conforme ganha níveis nessa classe, duas ra
 
 ### Patrono Transcendental
 
-No 1° nível, você conclui uma barganha com um ser transcendental, à sua escolha: a Arquifada, o Corruptor, o Grande Antigo, o Celestial ou a Lâmina Maldita, cada um deles é detalhado no final da descrição da classe. Sua escolha lhe confere traços no 1° nível e novamente no6°, 10° e 14° nível. 
+No 1° nível, você conclui uma barganha com um ser transcendental, à sua escolha: a Arquifada, o Corruptor, o Grande Antigo, o Celestial ou a Lâmina Maldita, cada um deles é detalhado no final da descrição da classe. Sua escolha lhe confere traços no 1° nível e novamente no 6°, 10° e 14° nível. 
 
 ### Magia de Pacto
 
