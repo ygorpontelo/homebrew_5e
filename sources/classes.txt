@@ -3704,7 +3704,7 @@ A partir do 3º nível, seus ataques com armas adquirem uma margem de acerto cr�
 
 #### Atletismo Extraordinário
 
-Você adquire prodifiência nas perícias Atletismo e Acrobacia. Se já tiver proficiência, você ganha expertise. 
+A partir do 7º nível, você adquire prodifiência nas perícias Atletismo e Acrobacia. Se já tiver proficiência, você ganha expertise. 
 
 #### Estilo de Luta Adicional
 
