@@ -5867,15 +5867,15 @@ Após ativar a aura, o paladino não poderá fazê-lo novamente até terminar um
 | 3º | +2 | Conclave de Patrulheiro, Conciência Primitiva | 3 | — | — | — | — |
 | 4º | +2 | Incremento no Valor de Habilidade | 3 | — | — | — | — |
 | 5º | +3 | Ataque Extra | 4 | 2 | — | — | — |
-| 6º | +3 | Inimigo Favorito Maior | 4 | 2 | — | — | — | 
+| 6º | +3 | Inimigo Favorito Aprimorado, Explorador Natural Aprimorado | 4 | 2 | — | — | — | 
 | 7º | +3 | Característica de Conclave de Patrulheiro | 4 | 3 | — | — | — | 
-| 8º | +3 | Incremento no Valor de Habilidade | 4 | 3 | — | — | — |
+| 8º | +3 | Incremento no Valor de Habilidade, Mestre em Armadilhas | 4 | 3 | — | — | — |
 | 9º | +4 | — | 4 | 3 | 2 | — | — |
-| 10º | +4 | Mimetismo | 4 | 3 | 2 | — | — | 
+| 10º | +4 | Desaparecer | 4 | 3 | 2 | — | — | 
 | 11º | +4 | Característica de Conclave de Patrulheiro | 4 | 3 | 3 | — | — |
 | 12º | +4 | Incremento no Valor de Habilidade | 4 | 3 | 3 | — | — |  
 | 13º | +5 | ─ | 4 | 3 | 3 | 1 | — | 
-| 14º | +5 | Toque Purificador | 4 | 3 | 3 | 1 | — |  
+| 14º | +5 | Camuflagem | 4 | 3 | 3 | 1 | — |  
 | 15º | +5 | Característica de Juramento Sagrado | 4 | 3 | 3 | 2 | — | 
 | 16º | +5 | Incremento no Valor de Habilidade | 4 | 3 | 3 | 2 | — | 
 | 17º | +6 | ─ | 4 | 3 | 3 | 3 | 1 | 
@@ -6003,11 +6003,11 @@ Você pode gastar um espaço de magia de 1º nível ou superior, se o fizer voc�
 
 Quando você atinge o 4° nível e novamente no 8°, 12°, 16° e 19° nível, você pode aumentar um valor de habilidade, à sua escolha, em 2 ou você pode aumentar dois valores de habilidade, à sua escolha, em 1. Como padrão, você não pode elevar um valor de habilidade acima de 20 com essa característica. 
 
-#### Ataque Extra
+### Ataque Extra
 
 A partir do 5° nível, você pode atacar duas vezes, ao invés de uma, sempre que você realizar a ação de Ataque no seu turno.
 
-#### Mestre em Armadilhas
+### Mestre em Armadilhas
 
 A partir do 8º nível, você se torna especialista em montar armadilhas de modo efetivo. Quando for montar uma armadilha, você tem vantagem nos testes de habilidade para prepará-la. (O livro do mestre tem boas opções de exemplos). 
 
@@ -6111,7 +6111,7 @@ No 11° nível, você ganha uma das seguintes características, à sua escolha.
 
 No 15° nível, você ganha uma das seguintes características, à sua escolha.
 
-**Evasão.** Você tem vantagem em testes de resistência contra magias. Quando você for alvo de um efeito que exige um teste de resistência de Destreza para sofrer metade do dano, você não sofre dano algum se passar, e somente metade do dano se falhar.
+**Evasão.** Você tem vantagem em testes de resistência de Destreza. Você pode esquivar-se agilmente de certos efeitos em área, como o sopro de fogo de um dragão vermelho ou uma magia relâmpago. Quando você for alvo de um efeito que exige um teste de resistência de Destreza para sofrer metade do dano, você não sofre dano algum se passar, e somente metade do dano se falhar. 
 
 **Manter-se Contra a Maré.** Quando estiver a 1,5 de distância de mais de um inimigo, você tem resistência ao dano que eles lhe causarem.
 
@@ -6155,11 +6155,11 @@ No 7° nível, você afiou suas habilidades para resistir a poderes de alteraç�
 
 #### Rajada do Rastreador
 
-No 11º nível, você aprende a atacar com uma velocidade tão inesperada que pode transformar uma falha em outro ataque. Uma vez em cada um de seus turnos, quando obtiver uma falha com um ataque, pode fazer outro ataque como parte da mesma ação. 
+No 11º nível, você aprende a atacar com uma velocidade tão inesperada que pode transformar uma falha em outro ataque. Uma vez em cada um de seus turnos, quando obtiver uma falha com um ataque com arma, pode fazer outro ataque com arma como parte da mesma ação. 
 
 #### Esquiva do Rastreador
 
-A partir do 15° nível, você pode se esquivar de maneiras imprevisíveis com um punhado de sombras sobrenaturais à sua volta. sempre que uma criatura atacar você e não tiver vantagem, você pode usar sua reação para impor desvantagem na jogada de ataque da criatura contra você. Você pode usar essa característica antes ou depois da jogada de ataque ser feita, mas deve ser usada antes do resultado da jogada ser determinado. 
+A partir do 15° nível, você pode se esquivar de maneiras imprevisíveis com um punhado de sombras sobrenaturais à sua volta. Sempre que uma criatura atacar você e não tiver vantagem, você pode usar sua reação para impor desvantagem nas jogadas de ataque da criatura contra você. Você pode usar essa característica antes ou depois da jogada de ataque ser feita. 
 
 
 ### Conclave do Andarilho do Horizonte
@@ -6193,7 +6193,7 @@ Como uma ação bônus, escolha uma criatura que possa ver dentro de 9 metros de
 
 #### Passo Etéreo
 
-No 7° nível, você aprende a atravessar o Plano Etéreo. Como uma ação bônus, pode conjurar a magia forma etérea com essa característica, sem gastar um espaço de magia, mas a magia termina no final do turno atual.
+No 7° nível, você aprende a atravessar o Plano Etéreo. Como uma ação bônus, pode conjurar a magia *forma etérea* com essa característica, sem gastar um espaço de magia, mas a magia termina no final do turno atual.
 
 Depois de usar essa característica, não pode usá-la novamente até terminar um descanso curto ou longo.
 
@@ -6201,13 +6201,13 @@ Depois de usar essa característica, não pode usá-la novamente até terminar u
 
 #### Ataque Distante
 
-No 11 o nível, você ganha a habilidade de passar entre os planos em um piscar de olhos. Quando realiza um ataque, pode se teleportar até 3 metros antes de cada ataque para um espaço desocupado que possa ver.
+No 11 o nível, você ganha a habilidade de passar entre os planos em um piscar de olhos. Quando realiza a ação Atacar, pode se teleportar até 3 metros antes de cada ataque para um espaço desocupado que possa ver.
 
 Se você atacar pelo menos duas criaturas diferentes com a ação, você pode fazer um ataque adicional contra uma terceira criatura. 
 
 #### Defesa Espectral
 
-No 15° nível, sua capacidade de se mover entre os planos o permite que deslize através das bordas dos planos para diminuir os danos causados durante a batalha. Quando receber dano de um ataque, pode usar sua reação para se dar resistência a todos os danos desse ataque neste turno. 
+No 15° nível, sua capacidade de se mover entre os planos o permite que deslize através das bordas dos planos para diminuir os danos causados durante a batalha. Quando receber dano de um ataque, pode usar sua reação para se ter resistência a todos os tipos de dano desse ataque até o início do seu próximo turno. 
 
 #### Exterminador de Monstros
 
@@ -6247,12 +6247,12 @@ No 7º nível, você ganha resiliência adicional aos ataques de sua presa contr
 
 #### Nêmesis do Conjurador
 
-No 11 o nível você ganha a habilidade de frustrar a magia de outra pessoa. Quando ver uma criatura conjurando uma magia ou se teleportando a até 18 metros de alcance, pode usar sua reação para tentar fazê-la fracassar. Esta criatura deve ser bem-sucedida em teste de resistência de Sabedoria contra seu nível de CD de magias, ou sua magia ou teleporte são desperdiçados.
+No 11 o nível você ganha a habilidade de frustrar a magia de outros. Quando ver uma criatura conjurando uma magia ou se teleportando a até 18 metros de alcance, pode usar sua reação para tentar fazê-la fracassar. Esta criatura deve ser bem-sucedida em teste de resistência de Sabedoria contra seu nível de CD de magias, ou sua magia ou teleporte são desperdiçados.
 
 Após usar essa característica, só pode usá-la novamente após terminar um descanso curto ou longo. 
 
 #### Contra Ataque do Exterminador 
 
-No 15° nível, você ganha a habilidade de contra atacar quando sua presa tenta sabotá-lo. Se o alvo do Exterminador de Presas forçá-lo a fazer um teste de resistência, pode usar sua reação para fazer um ataque contra a presa. Você faz esse ataque imediatamente antes de fazer o teste de resistência. Se o seu ataque atingir, o seu teste automaticamente tem sucesso, além dos efeitos normais do ataque. 
+No 15° nível, você ganha a habilidade de contra atacar quando sua presa tenta sabotá-lo. Se o alvo do Exterminador de Presas forçá-lo a fazer um teste de resistência, pode usar sua reação para fazer um ataque contra a presa. Você faz esse ataque imediatamente antes de fazer o teste de resistência. Se o seu ataque atingir, o seu teste automaticamente tem sucesso. 
 
 
