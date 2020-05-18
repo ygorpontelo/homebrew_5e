@@ -1,4 +1,4 @@
-# Homebrew do sistema de rpg 5e
+# Homebrew do sistema de rpg d&d 5e
 
 ## PDFs de cada tópico
 
