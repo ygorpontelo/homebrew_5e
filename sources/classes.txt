@@ -5871,11 +5871,11 @@ Após ativar a aura, o paladino não poderá fazê-lo novamente até terminar um
 | 7º | +3 | Característica de Conclave de Patrulheiro | 4 | 3 | — | — | — | 
 | 8º | +3 | Incremento no Valor de Habilidade, Mestre em Armadilhas | 4 | 3 | — | — | — |
 | 9º | +4 | — | 4 | 3 | 2 | — | — |
-| 10º | +4 | Desaparecer | 4 | 3 | 2 | — | — | 
+| 10º | +4 | Desaparecer, Explorador Natural Aprimorado | 4 | 3 | 2 | — | — | 
 | 11º | +4 | Característica de Conclave de Patrulheiro | 4 | 3 | 3 | — | — |
 | 12º | +4 | Incremento no Valor de Habilidade | 4 | 3 | 3 | — | — |  
 | 13º | +5 | ─ | 4 | 3 | 3 | 1 | — | 
-| 14º | +5 | Camuflagem | 4 | 3 | 3 | 1 | — |  
+| 14º | +5 | Camuflagem, Inimigo Favorito Aprimorado | 4 | 3 | 3 | 1 | — |  
 | 15º | +5 | Característica de Juramento Sagrado | 4 | 3 | 3 | 2 | — | 
 | 16º | +5 | Incremento no Valor de Habilidade | 4 | 3 | 3 | 2 | — | 
 | 17º | +6 | ─ | 4 | 3 | 3 | 3 | 1 | 
