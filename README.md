@@ -14,10 +14,10 @@ Equipamentos com mecânicas novas. Mecânicas gerais alteradas, como flaking e p
 
 ### PDFs
 
-Acesse <a href="https://ygorpontelo.github.io/homebrew_5e/" target="_blank">Esse Site</a> para baixar os pdfs.
+Acesse [Esse site](https://ygorpontelo.github.io/homebrew_5e/) para baixar os pdfs.
 
 ### Agradecimentos
 
-Plataforma usada para formatar os pdfs: <a href="https://homebrewery.naturalcrit.com" target="_blank">Homebrewery</a>.
+Plataforma usada para formatar os pdfs: [Homebrewery](https://homebrewery.naturalcrit.com).
 
-Treantmonk por ter sido uma forte inspiração em eu fazer esse homebrew e também me ajudar bastante com várias das modificações, especialmente a do bruxo, druida e patrulheiro. Ele também fez suas modificações e as comentou e disponibilizou. Seu canal no <a href="https://www.youtube.com/user/sevlevboss" target="_blank">Youtube</a> e seu <a href="https://www.patreon.com/Treantmonkstemple" target="_blank">Patreon</a>.   
+Treantmonk por ter sido uma forte inspiração em eu fazer esse homebrew e também me ajudar bastante com várias das modificações, especialmente a do bruxo, druida e patrulheiro. Ele também fez suas modificações e as comentou e disponibilizou. Seu canal no [Youtube](https://www.youtube.com/user/sevlevboss) e seu [Patreon](https://www.patreon.com/Treantmonkstemple). 
