@@ -5080,17 +5080,20 @@ Toda vez que você aprende uma nova disciplina elemental, você pode substituir 
 
 Quando você alcança o 5° nível nessa classe, você pode gastar pontos de chi adicionais para aumentar o nível da magia de disciplina elemental que você conjurar, considerando que a magia tenha um efeito de aprimoramento para um nível superior, como mãos flamejantes, por exemplo. O nível da magia aumenta em 1 para cada ponto de chi adicional que você gastar. Por exemplo, se você for um monge de 5° nível e usar Golpe de Varredura Cauterizante para conjurar mãos flamejantes, você pode gastar 3 pontos de chi para conjurá-la como uma magia de 3º nível (o custo base da disciplina de 1 ponto mais 2). 
 
-Quando usar sua ação para conjurar uma magia ou controlar uma que já tenha conjurado, você pode usar  Artes Marciais e Rajada de Golpes como se tivesse usado a Ação de Ataque no seu turno.
+O número máximo de pontos de chi que você pode gastar para conjurar uma magia dessa forma (incluindo seu custo de chi base e quaisquer pontos de chi adicionais que você gastar para elevar seu nível) é determinado pelo seu nível de monge, como mostrado na tabela Magias e Pontos de Chi. 
 
 \page
 
 ##### Magia e Pontos de Chi
-| Nível de Monge | Ponstos de Chi Máximos para uma Magia |
+| Nível de Monge | Pontos de Chi Máximos para uma Magia |
 |:----:|:-------------|
 | 5º-8º | 3 |
 | 9º-12º | 4 |
 | 13º-16º | 5 |
 | 17º-20º | 6 |
+
+
+Quando usar sua ação para conjurar uma magia ou controlar uma que já tenha conjurado, você pode usar  Artes Marciais e Rajada de Golpes como se tivesse usado a Ação de Ataque no seu turno.
 
 #### Disciplinas Elementais
 
@@ -5152,6 +5155,8 @@ Por exemplo, se você afetou 9 metros quadrados, você pode criar um pilar de at
 
 **Serragem do Vento do Norte (6° nível Requerido).** Você pode gastar 2 pontos de chi para conjurar *imobilizar pessoa*.
 
+\page
+
 **Sintonia Elemental.** Você pode usar sua ação para, momentaneamente, controlar as forças elementais próximas, causando um dos seguintes efeitos, à sua escolha:
 - Criar, instantaneamente, um efeito sensorial inofensivo relacionado à água, ar, fogo ou terra, como uma chuva de faíscas, um sopro de vento, uma leve rajada de névoa ou um suave estrondo de pedra.
 - Acender ou apagar, instantaneamente, uma vela, tocha ou pequena fogueira.
@@ -5163,8 +5168,6 @@ Por exemplo, se você afetou 9 metros quadrados, você pode criar um pilar de at
 **Terra Manipulável (18° nível Requerido).** Você pode gastar 6 pontos de chi para conjurar *mover terra*. 
 
 **Unir-se a terra (6° nível Requerido).** Você pode gastar 3 pontos de chi para conjurar *mesclar-se às rochas*.
-
-\page
 
 **Fluxo de Vento (18° nível Requerido).** Você pode gastar 6 pontos de chi para conjurar *caminhar no vento*. 
 
@@ -5184,9 +5187,6 @@ Por exemplo, se você afetou 9 metros quadrados, você pode criar um pilar de at
 O Estilo do Mestre Bêbado ensina seus alunos a se moverem ridiculamente, com movimentos imprevisíveis de um bêbado. Um mestre bêbado balança, cambaleante em seus passos desequilibrados, apresentando o que parece ser um incompetente combatente que está insatisfeito em lutar. Os movimentos erráticos do mestre bêbado escondem uma dança cuidadosamente executada repleta de bloqueios, esquivas, avanços, ataques e recuos. 
 
 Um mestre bêbado muitas vezes gosta de bancar o idiota para trazer alegria aos desanimados ou demonstrar humildade para o arrogante, mas quando entra em batalha, o mestre bêbado pode ser um inimigo magistral. 
-
-```
-```
 
 #### Proficiência Adicional
 
@@ -5216,13 +5216,13 @@ No 17° nível você ganha a habilidade de fazer um número de ataques esmagador
 
 Monges do Estilo do Kensei treinam incansavelmente com suas armas, ao ponto em que a arma se torna uma extensão do seu corpo. Estabelecida em dominar lutas com espadas, a tradição se expandiu, incluindo diferentes armas.
 
+\page
+
 Um kensei vê uma arma da mesma forma que um calígrafo ou pintor aprecia a caneta ou o pincel. Não importa a arma, o Kensei a vê como uma ferramenta usada para expressar a beleza e precisão das artes marciais. Esse nível de domínio faz de um Kensei um inigualável guerreiro, sendo esse o resultado de uma intensa devoção, prática e estudo. 
 
 #### Estilo do Kensei
 
 Quando você escolhe essa tradição no 3° nível, seu treinamento em artes marciais o leva a dominar o uso de certo tipo de armas. Esse caminho também inclui instruções na fina arte da caligrafia ou pintura. Você ganha os seguintes beneficios.
-
-\page
 
 **Armas Kensei.** Escolha dois tipos de armas para serem suas armas Kensei: Uma arma corpo a corpo e outro arma a distância. As armas podem ser armas simples ou armas marciais que não tenham as propriedades pesada e especial. O arco longo é uma escolha válida. Você ganha proficiência com essas armas caso não tenha. As armas escolhidas são armas de monge para você. Muitas características dessa tradição funcionam somente com suas armas Kensei. Quando alcançar os níveis, 6°, 11 o e 17° na classe de monge, você poderá escolher outro tipo de arma, a distância ou corpo a corpo, para ser uma arma Kensei para você, seguindo os critérios acima.
  
@@ -5871,11 +5871,11 @@ Após ativar a aura, o paladino não poderá fazê-lo novamente até terminar um
 | 7º | +3 | Característica de Conclave de Patrulheiro | 4 | 3 | — | — | — | 
 | 8º | +3 | Incremento no Valor de Habilidade, Mestre em Armadilhas | 4 | 3 | — | — | — |
 | 9º | +4 | — | 4 | 3 | 2 | — | — |
-| 10º | +4 | Desaparecer, Explorador Natural Aprimorado | 4 | 3 | 2 | — | — | 
+| 10º | +4 | Desaparecer | 4 | 3 | 2 | — | — | 
 | 11º | +4 | Característica de Conclave de Patrulheiro | 4 | 3 | 3 | — | — |
 | 12º | +4 | Incremento no Valor de Habilidade | 4 | 3 | 3 | — | — |  
 | 13º | +5 | ─ | 4 | 3 | 3 | 1 | — | 
-| 14º | +5 | Camuflagem, Inimigo Favorito Aprimorado | 4 | 3 | 3 | 1 | — |  
+| 14º | +5 | Camuflagem | 4 | 3 | 3 | 1 | — |  
 | 15º | +5 | Característica de Juramento Sagrado | 4 | 3 | 3 | 2 | — | 
 | 16º | +5 | Incremento no Valor de Habilidade | 4 | 3 | 3 | 2 | — | 
 | 17º | +6 | ─ | 4 | 3 | 3 | 3 | 1 | 
