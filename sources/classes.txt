@@ -4822,7 +4822,7 @@ A partir do 2° nível, sua aguda capacidade de avaliar situações táticas lhe
 
 A partir do 6 o nível, você pode armazenar energia mágica dentro de si mesmo para fortalecer suas magias ofensivas posteriormente. Em sua forma armazenada, esta energia é chamada de Surto de Poder.
 
-Você pode armazenar um número máximo de surtos de poder igual ao seu modificador de Inteligência (mínimo de um). Sempre que terminar um descanso longo, seu número de surtos de poder é reiniciado para um. Sempre que terminar com sucesso uma magia *dissipar magia* ou *contramágica*, ganha um surto de poder, como se roubasse a mágica da magia que evitou. Se terminar um descanso longo sem surtos de poder, ganha um surto de poder.
+Você pode armazenar um número máximo de surtos de poder igual ao seu modificador de Inteligência (mínimo de um). Sempre que terminar um descanso longo, seu número de surtos de poder é reiniciado para um. Sempre que terminar com sucesso uma magia *dissipar magia* ou *contramágica*, ganha um surto de poder, como se roubasse a mágica da magia que evitou. Se terminar um descanso curto sem surtos de poder, ganha um surto de poder.
 
 Uma vez por turno, quando causar dano a uma criatura ou objeto com uma magia de mago, pode
 gastar um surto de poder para causar dano de energia adicional a esse alvo. O dano adicional causado é igual à metade do seu nível de mago.
