@@ -5256,18 +5256,18 @@ Monges do Estilo da Alma Solar aprendem a canalizar sua energia vital em calcina
 
 Quando escolher essa tradição no 3° nível, você pode lançar raios mágicos radiantes.
 
-Você ganha uma nova opção de ataque que pode ser usada junto com a ação de Ataque. Esse ataque especial é um ataque a distância com alcance de 9 metros. Você é proficiente com ele e você adiciona seu modificador de Destreza nos testes de ataque e dano. O dano é do tipo radiante e o dado de dano é 1d4. Esse dado se altera conforme você ganha níveis de monge, de acordo com a coluna de Artes Marciais da tabela de monge.
+Você ganha uma nova opção de ataque que pode ser usada junto com a ação de Ataque. Esse ataque especial é um ataque a distância com alcance de 18 metros. Você é proficiente com ele e você adiciona seu modificador de Destreza nos testes de ataque e dano. O dano é do tipo radiante e o dado de dano é 1d4. Esse dado se altera conforme você ganha níveis de monge, de acordo com a coluna de Artes Marciais da tabela de monge.
 
-Quando usar a ação de Ataque no seu turno e utilizar esse ataque especial como parte dele, você
-pode gastar 1 ponto de Ki para fazer esse ataque especial em sua Rajada de Golpes. 
+Uma vez por turno, quando fizer um ataque desarmado, você pode escolher utilizar esse ataque especial no lugar. Você
+pode gastar 1 ponto de Ki para usar o ataque duas vezes no turno. 
 
 Quando ganhar a habilidade Ataque Extra, esse ataque especial pode ser usado em qualquer um dos ataques que você fizer como parte da sua ação de Ataque.
 
 #### Golpe do Arco Abrasador
 
-No 6° nível, você ganha a habilidade de canalizar seu ki em abrasadoras ondas de energia. Imediatamente após ter feito a ação de ataque no seu turno, você pode gastar 1 ponto de ki para conjurar a magia mãos flamejantes como ação bônus.
+No 6° nível, você ganha a habilidade de canalizar seu ki em abrasadoras ondas de energia. Imediatamente após ter feito a ação de ataque no seu turno, você pode gastar 1 ponto de ki para conjurar a magia mãos flamejantes como ação bônus, o dano é radiante.
 
-Cada ponto adicional de ki gasto aumenta o nível da magia mãos flamejantes em 1. O número máximo de pontos de Ki (1 mais quaisquer pontos adicionais) que você pode gastar na magia é igual a metade do seu nível de monge.
+Cada ponto adicional de ki gasto aumenta o nível da magia mãos flamejantes em 1. O número máximo de pontos de Ki (1 mais quaisquer pontos adicionais) que você pode gastar na magia é igual a metade do seu nível de monge (até o máx. de 9).
 
 #### Explosão Calcinante
 
@@ -5281,8 +5281,7 @@ Você pode aumentar o dano da esfera gastando pontos de Ki. Cada ponto gasto, at
 
 No 17° nível, você é rodeado por uma aura mágica de luz solar. Você espalha luz plena em um raio de 9 metros e penumbra por mais 9 metros. Você pode extinguir ou restaurar a luz como uma ação bônus.
 
-Se uma criatura o atingir quando sua luz brilhar, ela sofre dano radiante igual a 5 mais seu
-modificador de Sabedoria.
+Se uma criatura o atingir quando sua luz brilhar, ela sofre dano radiante igual a 5 mais seu modificador de Sabedoria.
 
 \page
 
