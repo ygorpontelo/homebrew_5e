@@ -340,6 +340,12 @@ Quando você fizer um teste de inteligência, você pode substituir pelo seu val
 
 Você entende a natureza da magia, permitindo você identificar magias quando conjuradas por um conjurador. Quando você perceber uma magia sendo conjurada, um efeito mágico, ou ambos, você pode fazer um teste de inteligência (Arcanismo) para identificar a magia. O CD é igual a 15 + nível da magia.
 
+### Intelecto Arcano Mestre
+
+*Pré requisito: Talento Intelecto Arcano*
+
+Se obtiver sucesso do teste para identificar a magia, você descobre também o nível em que ele está sendo conjurada.
+
 ## Treinamento Mágico
 <br>
 
@@ -355,7 +361,7 @@ Você pode escolher esse talento diversas vezes. A cada vez que o fizer, você d
 
 Escolha dois Cantrips de uma mesma lista de magias. Você aprende esses Cantrips e consegue conjurá-los usando a mesma habilidade da classe da lista que você os escolheu. 
 
-Você pode escolher esse talento diversas vezes. A cada vez que o fizer, você deve escolher um conjunto de truques diferente.
+Você pode escolher esse talento diversas vezes. A cada vez que o fizer, você deve escolher truques diferentes.
 
 ### Conjurador Rirualístico
 
