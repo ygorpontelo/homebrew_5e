@@ -344,7 +344,7 @@ Você entende a natureza da magia, permitindo você identificar magias quando co
 
 *Pré requisito: Talento Intelecto Arcano*
 
-Se obtiver sucesso do teste para identificar a magia, você descobre também o nível em que ele está sendo conjurada.
+Se obtiver sucesso no teste para identificar a magia, você descobre também o nível em que ela está sendo conjurada.
 
 ## Treinamento Mágico
 <br>
