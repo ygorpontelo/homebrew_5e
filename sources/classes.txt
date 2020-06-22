@@ -3653,7 +3653,7 @@ Você pode usar esta característica duas vezes entre descansos longos quando ch
 
 ### Oportunista
 
-A partir do 12ª nível, quando usar sua reação para fazer um ataque de oportunidade em uma criatura, você pode fazer dois ataques ao invés de um.
+A partir do 12ª nível, quando usar sua reação para fazer um ataque de oportunidade em uma criatura, você ganha um ataque de oportunidade a mais contra a criatura.
 
 ### Estilo de Combate Melhorado
 
@@ -3688,7 +3688,7 @@ Quando uma criatura que você possa ver atacar um alvo diferente de você que es
 
 ### Senhor da Guerra
 
-No 20ª nível, quando você atinge uma criatura com um ataque com arma, quaisquer outros ataques com arma que você fizer contra a criatura são feitos com vantagem.
+No 20ª nível, quando você atinge uma criatura com um ataque com arma, quaisquer outros ataques com arma que você fizer contra a criatura são feitos com vantagem até o início do seu próximo turno.
 
 ## Arquétipos Marciais
 
